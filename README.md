@@ -1,9 +1,10 @@
 <div align="center">
-	<img src=https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&&title=Repositories,MultipleLang,Stars,Commits,Experience,Followers&theme=darkhub />
+	<img src=https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&theme=darkhub />
 	<img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=transparent />
 	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent />
 	<img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark />
 </div>
+<!-- vedi il MultipleLang -->
 
 ### About Me: 
 Studio Informatica presso l'Università degli Studi di Catania. Sono interessato al mondo delle Intelligenze Artificiali e a quello della Sicurezza Informatica. Passo il mio tempo a fare cose strane perché spesso ho "Sbaddu Supecchiu".
