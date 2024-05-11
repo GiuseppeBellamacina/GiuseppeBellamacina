@@ -33,7 +33,7 @@ Lo uso solo per vedere video di cani e gatti o per guardare meme.
 |----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|
 
-### Best Frameworks and Main Libraries for Python:
+### Frameworks and Libraries for Python:
 
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
