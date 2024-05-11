@@ -1,7 +1,7 @@
 <div align="center">
 	<img src=https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&theme=darkhub />
 	<img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=transparent />
-	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.25&count_weight=0.75&layout=compact&theme=transparent />
+	<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0&count_weight=1&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=transparent />
 	<img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark />
 </div>
 <!-- vedi il MultipleLang -->
