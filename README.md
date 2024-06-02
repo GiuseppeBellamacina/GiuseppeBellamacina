@@ -12,7 +12,7 @@ Studio Informatica presso l'Università degli Studi di Catania. Sono interessato
 
 Sono un grande fan della Saghe cinematografiche di Star Wars e Marvel, ma sono altrettanto appassionato di anime e di  altre robe che inutile che elenco qui perché sono troppe. Mi appassiona anche il mondo videoludico.
 
-Sono Ryan Gosling.
+Sono un appassionato di Motori e I Drive (sono Ryan Gosling).
  
 ### Social media: 📡  
 
