@@ -22,7 +22,7 @@ Lo uso solo per vedere video di cani e gatti o per guardare meme.
 
 ### Working on: 🚀
 
-- Sto lavorando su un videogioco chiamato **The Legend of Turi** che sarà un Zelda-like ma con elementi della cultura catanese. Lo sto realizzando su Unity.
+- Cose confidenziali.
 - Sopravvivere.
 
 ## Languages and Tools 
