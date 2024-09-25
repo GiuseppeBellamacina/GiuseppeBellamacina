@@ -22,7 +22,8 @@ Lo uso solo per vedere video di cani e gatti o per guardare meme.
 
 ### Working on: 🚀
 
-- Cose confidenziali.
+- Un'IA per conquistare il mondo.
+- Una Tesi di Laurea in Informatica.
 - Sopravvivere.
 
 ## Languages and Tools 
