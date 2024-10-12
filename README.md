@@ -36,15 +36,13 @@ Lo uso solo per vedere video di cani e gatti o per guardare meme.
 
 ### Frameworks and Libraries for Python:
 
-### Frameworks and Libraries for Python:
-
 | Sklearn | Matplotlib | OpenCV | Flask | Streamlit |
 |----------|----------|----------|----------|----------|
 |<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/></div>|<div align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" title="Streamlit" alt="Streamlit" width="55" height="55"/></div>|
 
-| Pytorch | Selenium | Numpy | Pandas |
-|----------|----------|----------|----------|
-|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></div>|
+| Pytorch | Selenium | Numpy | Pandas | Keras |
+|----------|----------|----------|----------|----------|
+|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/></div>|
 
 ### Programs:
 
@@ -54,9 +52,15 @@ Lo uso solo per vedere video di cani e gatti o per guardare meme.
 
 ### Other Tools:
 
-| Conda | Jupyter | Git | GitHub | VirtualBox | Latex | Docker |
-|----------|----------|----------|----------|----------|----------|----------|
-|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/></div>|<div align="center"><img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VirtualBox" alt="VirtualBox" width="80" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="80" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></div>|
+| Conda | Jupyter | Git | GitHub | VirtualBox | Latex | Docker | Kaggle |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/></div>|<div align="center"><img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="VirtualBox" alt="VirtualBox" width="80" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="80" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="55" height="55"/></div>|
+
+### Databases:
+
+| MySQL | SQLAlchemy | SQLite |
+|----------|----------|----------|
+|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/></div>|<div align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="55" height="55"/></div>|
 
 ### OS:
 
