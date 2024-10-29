@@ -59,16 +59,6 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55">
-    </div>
-    <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="55" height="55">
-    </div>
-    <!-- Aggiungi le altre immagini nello stesso modo -->
-</div>
-
 
 
 # 🧪 Statistics
