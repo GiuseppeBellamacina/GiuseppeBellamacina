@@ -9,8 +9,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 # 🌐 Socials:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giuseppe_bellamacina/)
-[![Instagram Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/giuseppe_bellamacina/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-bellamacina-739b03204/)
 
 
 
