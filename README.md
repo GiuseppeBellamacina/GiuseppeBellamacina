@@ -31,7 +31,9 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
+    <div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 5px; border-radius: 8px;">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Python" title="Python" width="55" height="55">
+    </div>
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
@@ -78,5 +80,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 </div>
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12" alt="Visit Count"/>
+    <a href="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12">
+        <img src="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12" alt="Visit Count"/>
+    </a>
 </div>
