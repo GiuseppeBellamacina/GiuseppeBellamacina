@@ -23,8 +23,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 # 💻 Tech Stacks
 <div class="tools-container">
-    <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55"></div>
-    <div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="55" height="55"></div>
+    <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55"></div><div><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="55" height="55"></div>
     <div><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55"></div>
     <div><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="55" height="55"></div>
     <div><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="55" height="55"></div>
