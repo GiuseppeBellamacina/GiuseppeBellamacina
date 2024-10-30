@@ -26,7 +26,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55">
     <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
     <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
-    <img src="assets/img/java-original-wordmark.svg" alt="Java" title="Java" width="55" height="55">
+    <img src="assets/img/java-original-wordmark-removebg-preview.png" alt="Java" title="Java" width="55" height="55">
     <img src="assets/img/HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
     <img src="assets/img/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
@@ -48,17 +48,17 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
     <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
     <img src="assets/img/unity-original.svg" alt="Unity" title="Unity" width="55" height="55">
-    <img src="assets/img/blender-original.svg" alt="Blender" title="Blender" width="55" height="55">
+    <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55">
     <img src="assets/img/anaconda-original.svg" alt="Conda" title="Conda" width="55" height="55">
-    <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
+    <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
     <img src="assets/img/uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
     <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
-    <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
+    <img src="assets/img/github-original-wordmark-removebg-preview.png" alt="GitHub" title="GitHub" width="55" height="55">
     <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
     <img src="assets/img/latex-original.svg" alt="Latex" title="Latex" width="55" height="55">
     <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
-    <img src="assets/img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55">
+    <img src="assets/img/mysql-original-wordmark-removebg-preview.png" alt="MySQL" title="MySQL" width="55" height="55">
     <img src="assets/img/phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
     <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
     <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55">
@@ -69,7 +69,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
     <img src="assets/img/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
-    <img src="assets/img/huggingface-2.svg" alt="HuggingFace" title="HuggingFace" width="55" height="55">
+    <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
     <img src="assets/img/openai-2.svg" alt="OpenAI" title="OpenAI" width="55" height="55">
     <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
