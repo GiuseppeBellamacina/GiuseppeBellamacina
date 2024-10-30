@@ -22,58 +22,58 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 # 💻 Tech Stacks
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="assets/img/python-original.svg" alt="Python" title="Python" width="55" height="55">
-    <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55">
-    <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
-    <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
-    <img src="assets/img/java-original-wordmark.svg" alt="Java" title="Java" width="55" height="55">
-    <img src="assets/img/HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
-    <img src="assets/img/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="55" height="55">
-    <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
-    <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
-    <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
-    <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
-    <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
-    <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55">
-    <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55">
-    <img src="assets/img/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
-    <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
-    <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
-    <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
-    <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
-    <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
-    <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
-    <img src="assets/img/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55">
-    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
-    <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
-    <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
-    <img src="assets/img/unity-original.svg" alt="Unity" title="Unity" width="55" height="55">
-    <img src="assets/img/blender-original.svg" alt="Blender" title="Blender" width="55" height="55">
-    <img src="assets/img/anaconda-original.svg" alt="Conda" title="Conda" width="55" height="55">
-    <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
-    <img src="assets/img/uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
-    <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
-    <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
-    <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
-    <img src="assets/img/latex-original.svg" alt="Latex" title="Latex" width="55" height="55">
-    <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
-    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
-    <img src="assets/img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55">
-    <img src="assets/img/phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
-    <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
-    <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55">
-    <img src="assets/img/neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55">
-    <img src="assets/img/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55">
-    <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
-    <img src="assets/img/Debian_logo.png" alt="Debian" title="Debian" width="55" height="55">
-    <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
-    <img src="assets/img/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
-    <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
-    <img src="assets/img/huggingface-2.svg" alt="HuggingFace" title="HuggingFace" width="55" height="55">
-    <img src="assets/img/ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
-    <img src="assets/img/openai-2.svg" alt="OpenAI" title="OpenAI" width="55" height="55">
-    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
-    <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
+    <img src="assets/img/python-original.svg" alt="Python" title="Python" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/java-original-wordmark.svg" alt="Java" title="Java" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/unity-original.svg" alt="Unity" title="Unity" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/blender-original.svg" alt="Blender" title="Blender" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/anaconda-original.svg" alt="Conda" title="Conda" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/latex-original.svg" alt="Latex" title="Latex" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/Debian_logo.png" alt="Debian" title="Debian" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/huggingface-2.svg" alt="HuggingFace" title="HuggingFace" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/openai-2.svg" alt="OpenAI" title="OpenAI" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55" style="background-color: white;">
+    <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55" style="background-color: white;">
 </div>
 
 
