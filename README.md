@@ -27,6 +27,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="55" height="55">
+    <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
