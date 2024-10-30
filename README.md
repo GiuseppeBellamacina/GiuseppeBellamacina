@@ -27,13 +27,18 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
     <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
     <img src="assets/img/java-original-wordmark.svg" alt="Java" title="Java" width="55" height="55">
+    <img src="assets/img/HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
+    <img src="assets/img/CSS3_logo_and_wordmark.svg" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
+    <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
     <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
     <img src="assets/img/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
+    <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
     <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
     <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
+    <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
     <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
     <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
     <img src="assets/img/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55">
@@ -51,13 +56,19 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
     <img src="assets/img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55">
+    <img src="assets/img/phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
     <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
     <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55">
+    <img src="assets/img/neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55">
     <img src="assets/img/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55">
     <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
+    <img src="assets/img/Debian_logo.png" alt="Debian" title="Debian" width="55" height="55">
     <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
     <img src="assets/img/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
+    <img src="assets/img/huggingface-2.svg" alt="HuggingFace" title="HuggingFace" width="55" height="55">
+    <img src="assets/img/ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
+    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
 </div>
 
 
@@ -66,7 +77,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 <center>
 	<img src=https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub />
 	<div style="display: inline-block;">
-		<img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight />
+		<img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true />
 		<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight />
 	</div>
 	<img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark />
