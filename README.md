@@ -28,7 +28,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
     <img src="assets/img/java-original-wordmark-removebg-preview.png" alt="Java" title="Java" width="55" height="55">
     <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
-    <img src="assets/img/white_bg_CSS3_logo_and_wordmark.png" alt="CSS" title="CSS" width="55" height="55">
+    <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
     <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
