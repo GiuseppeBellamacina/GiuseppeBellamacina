@@ -46,7 +46,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
     <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
     <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
-    <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" alt="VirtualBox" title="VirtualBox" width="55" height="55">
+    <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
     <img src="assets/img/latex-original.svg" alt="Latex" title="Latex" width="55" height="55">
     <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
