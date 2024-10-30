@@ -31,7 +31,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/white_bg_CSS3_logo_and_wordmark.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
-    <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
+    <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
     <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55">
@@ -43,11 +43,11 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
     <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
     <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
-    <img src="assets/img/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55">
+    <img src="assets/img/white_bg_pandas-original.png" alt="Pandas" title="Pandas" width="55" height="55">
     <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
     <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
     <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
-    <img src="assets/img/unity-original.svg" alt="Unity" title="Unity" width="55" height="55">
+    <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55">
     <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55">
     <img src="assets/img/white_bg_anaconda-original.png" alt="Anaconda" title="Anaconda" width="55" height="55">
     <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
@@ -60,10 +60,10 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
     <img src="assets/img/mysql-original-wordmark-removebg-preview.png" alt="MySQL" title="MySQL" width="55" height="55">
     <img src="assets/img/white_bg_phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
-    <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
-    <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55">
+    <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
+    <img src="assets/img/white_bg_sqlite-original-wordmark.png" alt="SQLite" title="SQLite" width="55" height="55">
     <img src="assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55">
-    <img src="assets/img/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55">
+    <img src="assets/img/white_bg_windows11-original.png" alt="Windows" title="Windows" width="55" height="55">
     <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
     <img src="assets/img/white_bg_Debian_logo.png " alt="Debian" title="Debian" width="55" height="55">
     <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
@@ -71,7 +71,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
-    <img src="assets/img/openai-2.svg" alt="OpenAI" title="OpenAI" width="55" height="55">
+    <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
     <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
     <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
 </div>
