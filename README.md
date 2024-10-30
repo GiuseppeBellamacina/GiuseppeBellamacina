@@ -34,6 +34,8 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
+    <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55">
+    <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55">
     <img src="assets/img/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
     <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
     <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
@@ -49,6 +51,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/blender-original.svg" alt="Blender" title="Blender" width="55" height="55">
     <img src="assets/img/anaconda-original.svg" alt="Conda" title="Conda" width="55" height="55">
     <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
+    <img src="assets/img/uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
     <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
     <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
     <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
@@ -68,7 +71,9 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
     <img src="assets/img/huggingface-2.svg" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
+    <img src="assets/img/openai-2.svg" alt="OpenAI" title="OpenAI" width="55" height="55">
     <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
+    <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
 </div>
 
 
