@@ -22,41 +22,41 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 # 💻 Tech Stacks
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="assets/img/python-original.svg" alt="Python" title="Python" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" title="C" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" title="Java" width="55" height="55">
+    <img src="assets/img//python-original.svg" alt="Python" title="Python" width="55" height="55">
+    <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55">
+    <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
+    <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
+    <img src="assets/img/java-original-wordmark.svg" alt="Java" title="Java" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" title="Numpy" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" alt="Unity" title="Unity" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" alt="Blender" title="Blender" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Conda" title="Conda" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
+    <img src="assets/img/scikitlearn-original.svg" alt="Sklearn" title="Sklearn" width="55" height="55">
+    <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
+    <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
+    <img src="assets/img/flask-original-wordmark.svg" alt="Flask" title="Flask" width="55" height="55">
+    <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
+    <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
+    <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
+    <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
+    <img src="assets/img/pandas-original.svg" alt="Pandas" title="Pandas" width="55" height="55">
+    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
+    <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
+    <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
+    <img src="assets/img/unity-original.svg" alt="Unity" title="Unity" width="55" height="55">
+    <img src="assets/img/blender-original.svg" alt="Blender" title="Blender" width="55" height="55">
+    <img src="assets/img/anaconda-original.svg" alt="Conda" title="Conda" width="55" height="55">
+    <img src="assets/img/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="55" height="55">
+    <img src="assets/img/git-original-wordmark.svg" alt="Git" title="Git" width="55" height="55">
+    <img src="assets/img/github-original-wordmark.svg" alt="GitHub" title="GitHub" width="55" height="55">
     <img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" alt="VirtualBox" title="VirtualBox" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="Latex" title="Latex" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
-    <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
+    <img src="assets/img/latex-original.svg" alt="Latex" title="Latex" width="55" height="55">
+    <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
+    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
+    <img src="assets/img/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="55" height="55">
+    <img src="assets/img/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
+    <img src="assets/img/sqlite-original-wordmark.svg" alt="SQLite" title="SQLite" width="55" height="55">
+    <img src="assets/img/windows11-original.svg" alt="Windows" title="Windows" width="55" height="55">
+    <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
+    <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
+    <img src="assets/img/kalilinux-original-wordmark.svg" alt="Kali Linux" title="Kali Linux" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
 </div>
 
