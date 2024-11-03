@@ -27,10 +27,10 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
     <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
     <img src="assets/img/java-original-wordmark-removebg-preview.png" alt="Java" title="Java" width="55" height="55">
-    <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
-    <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
+    <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
+    <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
@@ -38,26 +38,27 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55">
     <img src="assets/img/white_bg_flask-original-wordmark.png" alt="Flask" title="Flask" width="55" height="55">
     <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
+    <img src="assets/img/white_bg_uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
     <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
     <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
     <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
+    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
     <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
     <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
     <img src="assets/img/white_bg_pandas-original.png" alt="Pandas" title="Pandas" width="55" height="55">
-    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
+    <img src="assets/img/polars.png" alt="Polars" title="Polars" width="55" height="55">
     <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
     <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
     <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55">
     <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55">
     <img src="assets/img/white_bg_anaconda-original.png" alt="Anaconda" title="Anaconda" width="55" height="55">
     <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
-    <img src="assets/img/white_bg_uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
     <img src="assets/img/white_bg_git-original-wordmark.png" alt="Git" title="Git" width="55" height="55">
     <img src="assets/img/github-original-wordmark-removebg-preview.png" alt="GitHub" title="GitHub" width="55" height="55">
     <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
-    <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
     <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
+    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
     <img src="assets/img/mysql-original-wordmark-removebg-preview.png" alt="MySQL" title="MySQL" width="55" height="55">
     <img src="assets/img/white_bg_phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
     <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
@@ -71,9 +72,10 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
+    <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
-    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
     <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
+    <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
 </div>
 
 
