@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Studio Informatica presso l'Università degli Studi di Catania. Sono interessato al mondo delle Intelligenze Artificiali e a quello della Sicurezza Informatica. Passo il mio tempo a fare cose strane perché spesso ho "Sbaddu Supecchiu".
 
 Sono un grande fan della Saghe cinematografiche di Star Wars e Marvel, ma sono altrettanto appassionato di anime e di altre robe che inutile che elenco qui perché sono troppe. Mi appassiona anche il mondo videoludico.
@@ -7,13 +7,13 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 
 
-# 🌐 Socials:
+# 🌐 Socials
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giuseppe_bellamacina/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-bellamacina-739b03204/)
 
 
 
-# 🚀 Working on:
+# 🚀 Working on
 - Un'IA per conquistare il mondo.
 - Una Tesi di Laurea in Informatica.
 - Sopravvivere.
