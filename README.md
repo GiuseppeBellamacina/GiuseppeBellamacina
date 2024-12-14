@@ -15,7 +15,6 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 # 🚀 Working on
 - Un'IA per conquistare il mondo.
-- Una Tesi di Laurea in Informatica.
 - Sopravvivere.
 
 
