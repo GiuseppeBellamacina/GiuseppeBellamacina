@@ -16,8 +16,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 
 # 🚀 Working on
-- Un'IA per conquistare il mondo.
-- Sopravvivere.
+- An AI to conquer the world (I'm joking... maybe).
+- Survive.
 
 
 
