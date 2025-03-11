@@ -94,9 +94,3 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 <div align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </div>
-
-<div align="center">
-    <a href="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12">
-        <img src="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12" alt="Visit Count"/>
-    </a>
-</div>
