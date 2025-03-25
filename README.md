@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi there! 👋 I'm Giuseppe, a Computer Science student at the University of Catania. I'm passionate about Artificial Intelligence and Cybersecurity, always diving into new challenges and exploring the unknown. Most of the time, I just end up doing weird stuff because, well... Sbaddu Supecchiu.
 
-I'm a huge fan of Star Wars and the Marvel Cinematic Universe, but I’m just as obsessed with anime and way too many other things to list here. I also have a deep love for video games.
+I'm a huge fan of Marvel and Star Wars universe, but I’m just as obsessed with anime and way too many other things to list here. I also have a deep love for video games.
 
 Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
