@@ -75,6 +75,7 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
     <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
+    <img src="assets/img/weaviate.png" alt="Weaviate" title="Weaviate" width="55" height="55">
     <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
 </div>
 
