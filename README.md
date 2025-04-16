@@ -1,9 +1,11 @@
 # 💫 About Me
-Studio Informatica presso l'Università degli Studi di Catania. Sono interessato al mondo delle Intelligenze Artificiali e a quello della Sicurezza Informatica. Passo il mio tempo a fare cose strane perché spesso ho "Sbaddu Supecchiu".
+Hi there! 👋 I'm Giuseppe, a Computer Science student at the University of Catania. I'm passionate about Artificial Intelligence and Cybersecurity, always diving into new challenges and exploring the unknown. Most of the time, I just end up doing weird stuff because, well... Sbaddu Supecchiu.
 
-Sono un grande fan della Saghe cinematografiche di Star Wars e Marvel, ma sono altrettanto appassionato di anime e di altre robe che inutile che elenco qui perché sono troppe. Mi appassiona anche il mondo videoludico.
+I'm a huge fan of Marvel and Star Wars universe, but I’m just as obsessed with anime and way too many other things to list here. I also have a deep love for video games.
 
-Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
+Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
+
+🚀 Always learning, always building.
 
 
 
@@ -14,9 +16,8 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 
 # 🚀 Working on
-- Un'IA per conquistare il mondo.
-- Una Tesi di Laurea in Informatica.
-- Sopravvivere.
+- An AI to conquer the world (I'm joking... maybe).
+- Survive.
 
 
 
@@ -95,10 +96,4 @@ Sono un appassionato di Motori, infatti I Drive (sono Ryan Gosling).
 
 <div align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</div>
-
-<div align="center">
-    <a href="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12">
-        <img src="https://visitcount.itsvg.in/api?id=GiuseppeBellamacina&icon=10&color=12" alt="Visit Count"/>
-    </a>
 </div>
