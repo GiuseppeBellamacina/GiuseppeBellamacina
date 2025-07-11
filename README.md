@@ -1,4 +1,5 @@
 # 💫 About Me
+
 Hi there! 👋 I'm Giuseppe, a Computer Science student at the University of Catania. I'm passionate about Artificial Intelligence and Cybersecurity, always diving into new challenges and exploring the unknown. Most of the time, I just end up doing weird stuff because, well... Sbaddu Supecchiu.
 
 I'm a huge fan of Marvel and Star Wars universe, but I’m just as obsessed with anime and way too many other things to list here. I also have a deep love for video games.
@@ -7,21 +8,18 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 🚀 Always learning, always building.
 
-
-
 # 🌐 Socials
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giuseppe_bellamacina/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-bellamacina-739b03204/)
 
-
-
 # 🚀 Working on
+
 - An AI to conquer the world (I'm joking... maybe).
 - Survive.
 
-
-
 # 💻 Tech Stacks
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <img src="assets/img/python-original.svg" alt="Python" title="Python" width="55" height="55">
     <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55">
@@ -32,6 +30,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
     <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
     <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
+    <img src="assets/img/react.png" alt="React" title="React" width="55" height="55">
     <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
@@ -80,9 +79,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
 </div>
 
-
-
 # 🧪 Statistics
+
 <center>
 	<img src=https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub />
 	<div style="display: inline-block;">
@@ -91,8 +89,6 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 	</div>
 	<img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark />
 </center>
-
-
 
 <div align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
