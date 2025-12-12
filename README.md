@@ -29,11 +29,15 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="assets/img/Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
+    <img src="assets/img/Markdown-mark.svg" alt="Markdown" title="Markdown" width="55" height="55">
     <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
     <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/react.png" alt="React" title="React" width="55" height="55">
+    <img src="assets/img/free-node-js-icon-svg-download-png-1174935.webp" alt="Node.js" title="Node.js" width="55" height="55">
     <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
     <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
+    <img src="assets/img/seaborn-1.svg" alt="Seaborn" title="Seaborn" width="55" height="55">
+    <img src="assets/img/plotly.png" alt="Plotly" title="Plotly" width="55" height="55">
     <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
     <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55">
     <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55">
@@ -41,13 +45,17 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
     <img src="assets/img/white_bg_uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
     <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
+    <img src="assets/img/gradio-color.png" alt="Gradio" title="Gradio" width="55" height="55">
     <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
     <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
     <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
     <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
+    <img src="assets/img/pytest.png" alt="Pytest" title="Pytest" width="55" height="55">
     <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
     <img src="assets/img/white_bg_pandas-original.png" alt="Pandas" title="Pandas" width="55" height="55">
     <img src="assets/img/polars.png" alt="Polars" title="Polars" width="55" height="55">
+    <img src="assets/img/spacy.png" alt="spaCy" title="spaCy" width="55" height="55">
+    <img src="assets/img/nltk.png" alt="NLTK" title="NLTK" width="55" height="55">
     <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
     <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
     <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55">
@@ -58,8 +66,10 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/npm.webp" alt="npm" title="npm" width="55" height="55">
     <img src="assets/img/bun.png" alt="Bun" title="Bun" width="55" height="55">
     <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
+    <img src="assets/img/google-colab-icon.webp" alt="Google Colab" title="Google Colab" width="55" height="55">
     <img src="assets/img/white_bg_git-original-wordmark.png" alt="Git" title="Git" width="55" height="55">
     <img src="assets/img/github-original-wordmark-removebg-preview.png" alt="GitHub" title="GitHub" width="55" height="55">
+    <img src="assets/img/github-actions.png" alt="GitHub Actions" title="GitHub Actions" width="55" height="55">
     <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
     <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
@@ -75,6 +85,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/white_bg_Debian_logo.png " alt="Debian" title="Debian" width="55" height="55">
     <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
     <img src="assets/img/white_bg_kalilinux-original-wordmark.png" alt="Kali Linux" title="Kali Linux" width="55" height="55">
+    <img src="assets/img/Wireshark_icon_new.png" alt="Wireshark" title="Wireshark" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
     <img src="assets/img/langgraph-color.png" alt="LangGraph" title="LangGraph" width="55" height="55">
     <img src="assets/img/langsmith-color.png" alt="LangSmith" title="LangSmith" width="55" height="55">
