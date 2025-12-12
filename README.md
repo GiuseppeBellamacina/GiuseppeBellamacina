@@ -27,6 +27,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
     <img src="assets/img/java-original-wordmark-removebg-preview.png" alt="Java" title="Java" width="55" height="55">
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
+    <img src="assets/img/Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
     <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
     <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
@@ -52,6 +53,10 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55">
     <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55">
     <img src="assets/img/white_bg_anaconda-original.png" alt="Anaconda" title="Anaconda" width="55" height="55">
+    <img src="assets/img/poetry.png" alt="Poetry" title="Poetry" width="55" height="55">
+    <img src="assets/img/uv.svg" alt="uv" title="uv" width="55" height="55">
+    <img src="assets/img/npm.webp" alt="npm" title="npm" width="55" height="55">
+    <img src="assets/img/bun.png" alt="Bun" title="Bun" width="55" height="55">
     <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
     <img src="assets/img/white_bg_git-original-wordmark.png" alt="Git" title="Git" width="55" height="55">
     <img src="assets/img/github-original-wordmark-removebg-preview.png" alt="GitHub" title="GitHub" width="55" height="55">
@@ -60,16 +65,19 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
     <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
     <img src="assets/img/mysql-original-wordmark-removebg-preview.png" alt="MySQL" title="MySQL" width="55" height="55">
-    <img src="assets/img/white_bg_phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
-    <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
+    <img src="assets/img/Postgresql_elephant.svg.png" alt="PostgreSQL" title="PostgreSQL" width="55" height="55">
     <img src="assets/img/white_bg_sqlite-original-wordmark.png" alt="SQLite" title="SQLite" width="55" height="55">
     <img src="assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55">
+    <img src="assets/img/white_bg_phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
+    <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
     <img src="assets/img/white_bg_windows11-original.png" alt="Windows" title="Windows" width="55" height="55">
     <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
     <img src="assets/img/white_bg_Debian_logo.png " alt="Debian" title="Debian" width="55" height="55">
     <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
     <img src="assets/img/white_bg_kalilinux-original-wordmark.png" alt="Kali Linux" title="Kali Linux" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
+    <img src="assets/img/langgraph-color.png" alt="LangGraph" title="LangGraph" width="55" height="55">
+    <img src="assets/img/langsmith-color.png" alt="LangSmith" title="LangSmith" width="55" height="55">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
