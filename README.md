@@ -140,30 +140,25 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub">
     <img src="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub" alt="GitHub Trophies" onerror="this.style.display='none'">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" onerror="this.style.display='none'">
-  </picture>
-  
-  <br/><br/>
   
   <div style="display: inline-block;">
     <img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true />
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight />
   </div>
   
-  <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark" alt="GitHub Profile Summary" onerror="this.style.display='none'">
   </picture>
   
-  <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake.svg">
     <img width="900" src="assets/github-snake.svg" alt="GitHub Contribution Snake" onerror="this.style.display='none'">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" onerror="this.style.display='none'">
   </picture>
   
 </div>
