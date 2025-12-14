@@ -137,7 +137,6 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 <table>
 <tr>
 <td width="33%">
-
 #### 🖼️ [Steganography WebApp](https://github.com/GiuseppeBellamacina/Steganography-WebApp)
 
 Hide data inside images with this web application.
@@ -147,7 +146,6 @@ Hide data inside images with this web application.
 
 </td>
 <td width="33%">
-
 #### 🧠 [Neural Sudoku](https://github.com/GiuseppeBellamacina/Neural-Sudoku)
 
 Deep Learning model that solves Sudoku puzzles.
@@ -157,7 +155,6 @@ Deep Learning model that solves Sudoku puzzles.
 
 </td>
 <td width="33%">
-
 #### 🎮 [The Legend of Turi](https://github.com/GiuseppeBellamacina/The-Legend-of-Turi)
 
 Zelda-like game with Sicilian twist.
@@ -169,7 +166,6 @@ Zelda-like game with Sicilian twist.
 </tr>
 <tr>
 <td width="33%">
-
 #### 📊 [Sales Store Forecasting](https://github.com/GiuseppeBellamacina/Sales-Store-Time-Series-Forecasting)
 
 Time series forecasting for sales data.
@@ -179,7 +175,6 @@ Time series forecasting for sales data.
 
 </td>
 <td width="33%">
-
 #### 🤖 [OmniBot V2](https://github.com/GiuseppeBellamacina/OmniBot-V2)
 
 Updated chatbot with Smart RAG Chain.
@@ -189,7 +184,6 @@ Updated chatbot with Smart RAG Chain.
 
 </td>
 <td width="33%">
-
 #### 👤 [Celebrity ResNet18](https://github.com/GiuseppeBellamacina/Celebrity-ResNet18)
 
 Face Recognition with CNN.
@@ -201,7 +195,6 @@ Face Recognition with CNN.
 </tr>
 <tr>
 <td width="33%">
-
 #### 🤖 [Guardian](https://github.com/GiuseppeBellamacina/Guardian)
 
 AI assistant for Law Enforcement.
@@ -211,7 +204,6 @@ AI assistant for Law Enforcement.
 
 </td>
 <td width="33%">
-
 #### 📚 [EPUB Translator](https://github.com/GiuseppeBellamacina/EPUB-Translator)
 
 Translate EPUB files with LLMs.
@@ -221,7 +213,6 @@ Translate EPUB files with LLMs.
 
 </td>
 <td width="33%">
-
 #### 🧪 [Little Language Model](https://github.com/GiuseppeBellamacina/Little_Language_Model)
 
 Transformer trained on Dante's works.
@@ -233,7 +224,6 @@ Transformer trained on Dante's works.
 </tr>
 <tr>
 <td width="33%">
-
 #### 🔒 [VulnerabilityBot](https://github.com/GiuseppeBellamacina/VulnerabilityBot)
 
 Cybersecurity tool with LLM.
@@ -259,9 +249,6 @@ Cybersecurity tool with LLM.
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub">
     <img src="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub" alt="GitHub Trophies" onerror="this.style.display='none'">
   </picture>
-  
-  <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" onerror="this.style.display='none'">
