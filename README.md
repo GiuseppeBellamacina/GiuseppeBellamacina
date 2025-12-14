@@ -29,7 +29,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
     <img src="assets/img/Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="55" height="55">
     <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
-    <img src="assets/img/Markdown-mark.svg" alt="Markdown" title="Markdown" width="55" height="55">
+    <img src="assets/img/markdown.svg" alt="Markdown" title="Markdown" width="55" height="55">
     <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
     <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
     <img src="assets/img/react.png" alt="React" title="React" width="55" height="55">
@@ -87,8 +87,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/white_bg_kalilinux-original-wordmark.png" alt="Kali Linux" title="Kali Linux" width="55" height="55">
     <img src="assets/img/Wireshark_icon_new.png" alt="Wireshark" title="Wireshark" width="55" height="55">
     <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
-    <img src="assets/img/langgraph-color.png" alt="LangGraph" title="LangGraph" width="55" height="55">
-    <img src="assets/img/langsmith-color.png" alt="LangSmith" title="LangSmith" width="55" height="55">
+    <img src="assets/img/langgraph-color.jpg" alt="LangGraph" title="LangGraph" width="55" height="55">
+    <img src="assets/img/langsmith-color.jpg" alt="LangSmith" title="LangSmith" width="55" height="55">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
