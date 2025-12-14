@@ -93,6 +93,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
+    <img src="assets/img/mcp.jpg" alt="MCP" title="Model Context Protocol" width="55" height="55">
     <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
     <img src="assets/img/weaviate.png" alt="Weaviate" title="Weaviate" width="55" height="55">
     <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
