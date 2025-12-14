@@ -15,7 +15,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 # 🚀 Working on
 
-- **Image Enhancement** - Exploring advanced techniques for image quality improvement
+- **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** - Exploring advanced techniques for image quality improvement
 - An **AI to conquer the world** (I'm joking... maybe)
 - **Survive**
 
@@ -136,74 +136,116 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🤖 [Guardian](https://github.com/GiuseppeBellamacina/Guardian)
+#### 🖼️ [Steganography WebApp](https://github.com/GiuseppeBellamacina/Steganography-WebApp)
 
-AI assistant for Law Enforcement using GraphRAG and LangGraph. Combines advanced AI techniques for intelligent information retrieval and analysis.
+Hide data inside images with this web application.
 
-**Tech:** Python, LangChain, LangGraph, OpenAI
-
-⭐ Stars: 3
-
-</td>
-<td width="50%">
-
-### 🧠 [Neural-Sudoku](https://github.com/GiuseppeBellamacina/Neural-Sudoku)
-
-Deep Learning model that solves Sudoku puzzles using neural networks. An innovative approach to combinatorial problems.
-
-**Tech:** PyTorch, Jupyter Notebook
-
-⭐ Stars: 4
+**Tech:** Python, Streamlit  
+⭐ 2
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%">
 
-### 👤 [Celebrity-ResNet18](https://github.com/GiuseppeBellamacina/Celebrity-ResNet18)
+#### 🧠 [Neural Sudoku](https://github.com/GiuseppeBellamacina/Neural-Sudoku)
 
-Convolutional Neural Network for Face Recognition using ResNet18 architecture.
+Deep Learning model that solves Sudoku puzzles.
 
-**Tech:** PyTorch, CNN, ResNet
-
-⭐ Stars: 4
+**Tech:** PyTorch  
+⭐ 4
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 📚 [Tesi Triennale OmniBot](https://github.com/GiuseppeBellamacina/Tesi_Triennale_OmniBot)
+#### 🎮 [The Legend of Turi](https://github.com/GiuseppeBellamacina/The-Legend-of-Turi)
 
-Bachelor's thesis on RAG systems and LLMs for intelligent chatbot development.
+Zelda-like game with Sicilian twist.
 
-**Tech:** Python, LLM, RAG
-
-⭐ Stars: 3
+**Tech:** C#, Unity  
+⭐ 4
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🎮 [The-Legend-of-Turi](https://github.com/GiuseppeBellamacina/The-Legend-of-Turi)
+#### 📊 [Sales Store Forecasting](https://github.com/GiuseppeBellamacina/Sales-Store-Time-Series-Forecasting)
 
-Zelda-like game with Sicilian twist made with Unity.
+Time series forecasting for sales data.
 
-**Tech:** C#, Unity
-
-⭐ Stars: 4
+**Tech:** Python, ML  
+⭐ 2
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🔒 [VulnerabilityBot](https://github.com/GiuseppeBellamacina/VulnerabilityBot)
+#### 🤖 [OmniBot V2](https://github.com/GiuseppeBellamacina/OmniBot-V2)
 
-Cybersecurity tool using LLM for vulnerability analysis and database management.
+Updated chatbot with Smart RAG Chain.
 
-**Tech:** Python, LLM, Cybersecurity
+**Tech:** LangChain, LangGraph  
+⭐ 2
 
-⭐ Stars: 4
+</td>
+<td width="33%">
+
+#### 👤 [Celebrity ResNet18](https://github.com/GiuseppeBellamacina/Celebrity-ResNet18)
+
+Face Recognition with CNN.
+
+**Tech:** PyTorch, ResNet  
+⭐ 4
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🤖 [Guardian](https://github.com/GiuseppeBellamacina/Guardian)
+
+AI assistant for Law Enforcement.
+
+**Tech:** GraphRAG, LangGraph  
+⭐ 3
+
+</td>
+<td width="33%">
+
+#### 📚 [EPUB Translator](https://github.com/GiuseppeBellamacina/EPUB-Translator)
+
+Translate EPUB files with LLMs.
+
+**Tech:** Python, LLM  
+⭐ 1
+
+</td>
+<td width="33%">
+
+#### 🧪 [Little Language Model](https://github.com/GiuseppeBellamacina/Little_Language_Model)
+
+Transformer trained on Dante's works.
+
+**Tech:** PyTorch  
+⭐ 3
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+#### 🔒 [VulnerabilityBot](https://github.com/GiuseppeBellamacina/VulnerabilityBot)
+
+Cybersecurity tool with LLM.
+
+**Tech:** Python, LLM  
+⭐ 4
+
+</td>
+<td width="33%">
+
+</td>
+<td width="33%">
 
 </td>
 </tr>
