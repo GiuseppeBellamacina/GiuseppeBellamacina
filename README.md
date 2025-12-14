@@ -58,6 +58,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/langgraph-color.jpg" alt="LangGraph" title="LangGraph" width="55" height="55">
     <img src="assets/img/langsmith-color.jpg" alt="LangSmith" title="LangSmith" width="55" height="55">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
+    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
@@ -107,7 +108,6 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/uv.svg" alt="uv" title="uv" width="55" height="55">
     <img src="assets/img/npm.webp" alt="npm" title="npm" width="55" height="55">
     <img src="assets/img/bun.png" alt="Bun" title="Bun" width="55" height="55">
-    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
 </div>
 
 ### 🖥️ IDEs & Editors
@@ -132,116 +132,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/Wireshark_icon_new.png" alt="Wireshark" title="Wireshark" width="55" height="55">
 </div>
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-#### 🖼️ [Steganography WebApp](https://github.com/GiuseppeBellamacina/Steganography-WebApp)
-
-Hide data inside images with this web application.
-
-**Tech:** Python, Streamlit  
-⭐ 2
-
-</td>
-<td width="33%">
-#### 🧠 [Neural Sudoku](https://github.com/GiuseppeBellamacina/Neural-Sudoku)
-
-Deep Learning model that solves Sudoku puzzles.
-
-**Tech:** PyTorch  
-⭐ 4
-
-</td>
-<td width="33%">
-#### 🎮 [The Legend of Turi](https://github.com/GiuseppeBellamacina/The-Legend-of-Turi)
-
-Zelda-like game with Sicilian twist.
-
-**Tech:** C#, Unity  
-⭐ 4
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-#### 📊 [Sales Store Forecasting](https://github.com/GiuseppeBellamacina/Sales-Store-Time-Series-Forecasting)
-
-Time series forecasting for sales data.
-
-**Tech:** Python, ML  
-⭐ 2
-
-</td>
-<td width="33%">
-#### 🤖 [OmniBot V2](https://github.com/GiuseppeBellamacina/OmniBot-V2)
-
-Updated chatbot with Smart RAG Chain.
-
-**Tech:** LangChain, LangGraph  
-⭐ 2
-
-</td>
-<td width="33%">
-#### 👤 [Celebrity ResNet18](https://github.com/GiuseppeBellamacina/Celebrity-ResNet18)
-
-Face Recognition with CNN.
-
-**Tech:** PyTorch, ResNet  
-⭐ 4
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-#### 🤖 [Guardian](https://github.com/GiuseppeBellamacina/Guardian)
-
-AI assistant for Law Enforcement.
-
-**Tech:** GraphRAG, LangGraph  
-⭐ 3
-
-</td>
-<td width="33%">
-#### 📚 [EPUB Translator](https://github.com/GiuseppeBellamacina/EPUB-Translator)
-
-Translate EPUB files with LLMs.
-
-**Tech:** Python, LLM  
-⭐ 1
-
-</td>
-<td width="33%">
-#### 🧪 [Little Language Model](https://github.com/GiuseppeBellamacina/Little_Language_Model)
-
-Transformer trained on Dante's works.
-
-**Tech:** PyTorch  
-⭐ 3
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-#### 🔒 [VulnerabilityBot](https://github.com/GiuseppeBellamacina/VulnerabilityBot)
-
-Cybersecurity tool with LLM.
-
-**Tech:** Python, LLM  
-⭐ 4
-
-</td>
-<td width="33%">
-
-</td>
-<td width="33%">
-
-</td>
-</tr>
-</table>
-
-# 📊 GitHub Stats
+# 🧪 GitHub Stats
 
 <div align="center">
   
