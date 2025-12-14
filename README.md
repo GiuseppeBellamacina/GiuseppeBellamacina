@@ -10,6 +10,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 # 🌐 Socials
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://giuseppebellamacina.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giuseppe_bellamacina/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-bellamacina-739b03204/)
 
