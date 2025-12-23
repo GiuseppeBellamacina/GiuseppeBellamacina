@@ -142,10 +142,15 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub" alt="GitHub Trophies" onerror="this.style.display='none'">
   </picture>
   
-  <div style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" onerror="this.style.display='none'" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight" onerror="this.style.display='none'" />
-  </div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight" alt="Top Languages">
+  </picture>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark">
