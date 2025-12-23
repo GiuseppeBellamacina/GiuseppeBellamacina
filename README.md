@@ -143,8 +143,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
   </picture>
   
   <div style="display: inline-block;">
-    <img src=https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true onerror="this.style.display='none'" />
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight onerror="this.style.display='none'" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" onerror="this.style.display='none'" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight" onerror="this.style.display='none'" />
   </div>
   
   <picture>
