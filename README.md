@@ -149,7 +149,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=20&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight" alt="Top Languages">
   </picture>
   
   <picture>
