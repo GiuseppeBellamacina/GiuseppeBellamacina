@@ -17,6 +17,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 # 🚀 Working on
 
 - **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** - Exploring advanced techniques for image quality improvement
+- **Trip Planner** - Trip Planner PWA (Progressive Web App)
 - An **AI to conquer the world** (I'm joking... maybe)
 - **Survive**
 
