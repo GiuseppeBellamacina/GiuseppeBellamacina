@@ -17,7 +17,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 # 🚀 Working on
 
 - **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** - Exploring advanced techniques for image quality improvement
-- **Trip Planner** - Trip Planner PWA (Progressive Web App)
+- **[Warehouse Swarm Intelligence System](https://github.com/GiuseppeBellamacina/Warehouse-Swarm-Intelligence-System)** - Designing a multi-agent system for optimizing warehouse operations
+- **Trip Planner** - Interactive Trip Planner PWA (Progressive Web App)
 - An **AI to conquer the world** (I'm joking... maybe)
 - **Survive**
 
@@ -44,7 +45,9 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55" onerror="this.style.display='none'">
+    <img src="assets/img/lightning.png" alt="PyTorch Lightning" title="PyTorch Lightning" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55" onerror="this.style.display='none'">
+    <img src="assets/img/wandb.png" alt="Weights & Biases" title="Weights & Biases" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55" onerror="this.style.display='none'">
@@ -61,6 +64,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/langsmith-color.jpg" alt="LangSmith" title="LangSmith" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55" onerror="this.style.display='none'">
+    <img src="assets/img/colab_favicon_256px.png" alt="Colab" title="Colab" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55" onerror="this.style.display='none'">
