@@ -64,7 +64,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/langsmith-color.jpg" alt="LangSmith" title="LangSmith" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55" onerror="this.style.display='none'">
-    <img src="assets/img/colab_favicon_256px.png" alt="Colab" title="Colab" width="55" height="55" onerror="this.style.display='none'">
+    <img src="assets/img/google-colab-icon.webp" alt="Google Colab" title="Google Colab" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55" onerror="this.style.display='none'">
@@ -122,7 +122,6 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
     <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55" onerror="this.style.display='none'">
-    <img src="assets/img/google-colab-icon.webp" alt="Google Colab" title="Google Colab" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55" onerror="this.style.display='none'">
     <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55" onerror="this.style.display='none'">
 </div>
