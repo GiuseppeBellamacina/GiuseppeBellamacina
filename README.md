@@ -149,20 +149,32 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 ## 📈 Statistics
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=default&hide_border=true" alt="GitHub Streak Stats">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=tokyonight&hide_border=true">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=default&hide_border=true" alt="GitHub Streak Stats">
+  </picture>
+</div>
 
 ---
 
 ## 💬 Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 
 ---
 
 ## 📅 Contribution Timeline
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=default" alt="GitHub Profile Summary">
+</picture>
 
 ---
 
