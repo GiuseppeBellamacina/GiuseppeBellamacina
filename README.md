@@ -24,162 +24,43 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 
 # 💻 Tech Stack
 
-### 🔤 Languages
-
-<div>
-    <img src="assets/img/python-original.svg" alt="Python" title="Python" width="55" height="55">
-    <img src="assets/img/c-original.svg" alt="C" title="C" width="55" height="55">
-    <img src="assets/img/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55">
-    <img src="assets/img/csharp-original.svg" alt="C#" title="C#" width="55" height="55">
-    <img src="assets/img/java-original-wordmark-removebg-preview.png" alt="Java" title="Java" width="55" height="55">
-    <img src="assets/img/js.png" alt="Javascript" title="Javascript" width="55" height="55">
-    <img src="assets/img/Typescript_logo_2020.svg.png" alt="TypeScript" title="TypeScript" width="55" height="55">
-    <img src="assets/img/bash.png" alt="Bash" title="Bash" width="55" height="55">
-    <img src="assets/img/markdown.svg" alt="Markdown" title="Markdown" width="55" height="55">
-    <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" alt="HTML" title="HTML" width="55" height="55">
-    <img src="assets/img/css.png" alt="CSS" title="CSS" width="55" height="55">
-    <img src="assets/img/white_bg_latex-original.png" alt="Latex" title="Latex" width="55" height="55">
-</div>
-
-### 🤖 AI/ML & Data Science
-
-<div>
-    <img src="assets/img/pytorch-original.svg" alt="Pytorch" title="Pytorch" width="55" height="55">
-    <img src="assets/img/lightning.png" alt="PyTorch Lightning" title="PyTorch Lightning" width="55" height="55">
-    <img src="assets/img/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="55" height="55">
-    <img src="assets/img/wandb.png" alt="Weights & Biases" title="Weights & Biases" width="55" height="55">
-    <img src="assets/img/keras-original.svg" alt="Keras" title="Keras" width="55" height="55">
-    <img src="assets/img/white_bg_scikitlearn-original.png" alt="Sklearn" title="Sklearn" width="55" height="55">
-    <img src="assets/img/numpy-original.svg" alt="Numpy" title="Numpy" width="55" height="55">
-    <img src="assets/img/white_bg_pandas-original.png" alt="Pandas" title="Pandas" width="55" height="55">
-    <img src="assets/img/polars.png" alt="Polars" title="Polars" width="55" height="55">
-    <img src="assets/img/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="55" height="55">
-    <img src="assets/img/seaborn-1.svg" alt="Seaborn" title="Seaborn" width="55" height="55">
-    <img src="assets/img/plotly.png" alt="Plotly" title="Plotly" width="55" height="55">
-    <img src="assets/img/opencv-original.svg" alt="OpenCV" title="OpenCV" width="55" height="55">
-    <img src="assets/img/spacy.png" alt="spaCy" title="spaCy" width="55" height="55">
-    <img src="assets/img/nltk.png" alt="NLTK" title="NLTK" width="55" height="55">
-    <img src="assets/img/langchain.jpg" alt="LangChain" title="LangChain" width="55" height="55">
-    <img src="assets/img/langgraph-color.jpg" alt="LangGraph" title="LangGraph" width="55" height="55">
-    <img src="assets/img/langsmith-color.jpg" alt="LangSmith" title="LangSmith" width="55" height="55">
-    <img src="assets/img/huggingface-2-removebg-preview.png" alt="HuggingFace" title="HuggingFace" width="55" height="55">
-    <img src="assets/img/kaggle-original-wordmark.svg" alt="Kaggle" title="Kaggle" width="55" height="55">
-    <img src="assets/img/google-colab-icon.webp" alt="Google Colab" title="Google Colab" width="55" height="55">
-    <img src="assets/img/white_bg_ollamalogo.png" alt="Ollama" title="Ollama" width="55" height="55">
-    <img src="assets/img/meta-6871457_1280.webp" alt="Meta" title="Meta" width="55" height="55">
-    <img src="assets/img/white_bg_openai-2.png" alt="OpenAI" title="OpenAI" width="55" height="55">
-    <img src="assets/img/mcp.jpg" alt="MCP" title="Model Context Protocol" width="55" height="55">
-    <img src="assets/img/chroma.png" alt="Chroma" title="Chroma" width="55" height="55">
-    <img src="assets/img/weaviate.png" alt="Weaviate" title="Weaviate" width="55" height="55">
-</div>
-
-### 🌐 Frameworks & Libraries
-
-<div>
-    <img src="assets/img/react.png" alt="React" title="React" width="55" height="55">
-    <img src="assets/img/free-node-js-icon-svg-download-png-1174935.webp" alt="Node.js" title="Node.js" width="55" height="55">
-    <img src="assets/img/fastapi.svg" alt="FastAPI" title="FastAPI" width="55" height="55">
-    <img src="assets/img/white_bg_flask-original-wordmark.png" alt="Flask" title="Flask" width="55" height="55">
-    <img src="assets/img/quart.png" alt="Quart" title="Quart" width="55" height="55">
-    <img src="assets/img/white_bg_uvicorn.png" alt="Uvicorn" title="Uvicorn" width="55" height="55">
-    <img src="assets/img/streamlit-mark-color.svg" alt="Streamlit" title="Streamlit" width="55" height="55">
-    <img src="assets/img/gradio-color.png" alt="Gradio" title="Gradio" width="55" height="55">
-    <img src="assets/img/Requests_Python_Logo.png" alt="Requests" title="Requests" width="55" height="55">
-    <img src="assets/img/selenium-original.svg" alt="Selenium" title="Selenium" width="55" height="55">
-    <img src="assets/img/pytest.png" alt="Pytest" title="Pytest" width="55" height="55">
-</div>
-
-### 🗃️ Databases
-
-<div>
-    <img src="assets/img/mysql-original-wordmark-removebg-preview.png" alt="MySQL" title="MySQL" width="55" height="55">
-    <img src="assets/img/Postgresql_elephant.svg.png" alt="PostgreSQL" title="PostgreSQL" width="55" height="55">
-    <img src="assets/img/white_bg_sqlite-original-wordmark.png" alt="SQLite" title="SQLite" width="55" height="55">
-    <img src="assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png" alt="Neo4j" title="Neo4j" width="55" height="55">
-    <img src="assets/img/white_bg_phpmyadmin-thumb.png" alt="PHPMyAdmin" title="PHPMyAdmin" width="55" height="55">
-    <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" alt="SQLAlchemy" title="SQLAlchemy" width="55" height="55">
-</div>
-
-### 🛠️ DevOps & Tools
-
-<div>
-    <img src="assets/img/white_bg_git-original-wordmark.png" alt="Git" title="Git" width="55" height="55">
-    <img src="assets/img/github-original-wordmark-removebg-preview.png" alt="GitHub" title="GitHub" width="55" height="55">
-    <img src="assets/img/github-actions.png" alt="GitHub Actions" title="GitHub Actions" width="55" height="55">
-    <img src="assets/img/docker-original.svg" alt="Docker" title="Docker" width="55" height="55">
-    <img src="assets/img/virtualbox.png" alt="VirtualBox" title="VirtualBox" width="55" height="55">
-    <img src="assets/img/aws.webp" alt="AWS" title="AWS" width="55" height="55">
-    <img src="assets/img/white_bg_anaconda-original.png" alt="Anaconda" title="Anaconda" width="55" height="55">
-    <img src="assets/img/poetry.png" alt="Poetry" title="Poetry" width="55" height="55">
-    <img src="assets/img/uv.svg" alt="uv" title="uv" width="55" height="55">
-    <img src="assets/img/npm.webp" alt="npm" title="npm" width="55" height="55">
-    <img src="assets/img/bun.png" alt="Bun" title="Bun" width="55" height="55">
-</div>
-
-### 🖥️ IDEs & Editors
-
-<div>
-    <img src="assets/img/vscode-original.svg" alt="VSCode" title="VSCode" width="55" height="55">
-    <img src="assets/img/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="55" height="55">
-    <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" alt="Jupyter" title="Jupyter" width="55" height="55">
-    <img src="assets/img/white_bg_unity-original.png" alt="Unity" title="Unity" width="55" height="55">
-    <img src="assets/img/blender-original-removebg-preview.png" alt="Blender" title="Blender" width="55" height="55">
-</div>
-
-### 💻 Operating Systems & Security
-
-<div>
-    <img src="assets/img/white_bg_windows11-original.png" alt="Windows" title="Windows" width="55" height="55">
-    <img src="assets/img/linux-original.svg" alt="Linux" title="Linux" width="55" height="55">
-    <img src="assets/img/white_bg_Debian_logo.png " alt="Debian" title="Debian" width="55" height="55">
-    <img src="assets/img/ubuntu-original.svg" alt="Ubuntu" title="Ubuntu" width="55" height="55">
-    <img src="assets/img/white_bg_kalilinux-original-wordmark.png" alt="Kali Linux" title="Kali Linux" width="55" height="55">
-    <img src="assets/img/Wireshark_icon_new.png" alt="Wireshark" title="Wireshark" width="55" height="55">
-</div>
+|                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🔤 Languages**              | <img src="assets/img/python-original.svg" title="Python" width="40" height="40"> <img src="assets/img/c-original.svg" title="C" width="40" height="40"> <img src="assets/img/cplusplus-original.svg" title="C++" width="40" height="40"> <img src="assets/img/csharp-original.svg" title="C#" width="40" height="40"> <img src="assets/img/java-original-wordmark-removebg-preview.png" title="Java" width="40" height="40"> <img src="assets/img/js.png" title="Javascript" width="40" height="40"> <img src="assets/img/Typescript_logo_2020.svg.png" title="TypeScript" width="40" height="40"> <img src="assets/img/bash.png" title="Bash" width="40" height="40"> <img src="assets/img/markdown.svg" title="Markdown" width="40" height="40"> <img src="assets/img/white_bg_HTML5_logo_and_wordmark.svg.png" title="HTML" width="40" height="40"> <img src="assets/img/css.png" title="CSS" width="40" height="40"> <img src="assets/img/white_bg_latex-original.png" title="Latex" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **🤖 AI/ML & Data Science**   | <img src="assets/img/pytorch-original.svg" title="Pytorch" width="40" height="40"> <img src="assets/img/lightning.png" title="PyTorch Lightning" width="40" height="40"> <img src="assets/img/tensorflow.png" title="TensorFlow" width="40" height="40"> <img src="assets/img/wandb.png" title="Weights & Biases" width="40" height="40"> <img src="assets/img/keras-original.svg" title="Keras" width="40" height="40"> <img src="assets/img/white_bg_scikitlearn-original.png" title="Sklearn" width="40" height="40"> <img src="assets/img/numpy-original.svg" title="Numpy" width="40" height="40"> <img src="assets/img/white_bg_pandas-original.png" title="Pandas" width="40" height="40"> <img src="assets/img/polars.png" title="Polars" width="40" height="40"> <img src="assets/img/matplotlib-original.svg" title="Matplotlib" width="40" height="40"> <img src="assets/img/seaborn-1.svg" title="Seaborn" width="40" height="40"> <img src="assets/img/plotly.png" title="Plotly" width="40" height="40"> <img src="assets/img/opencv-original.svg" title="OpenCV" width="40" height="40"> <img src="assets/img/spacy.png" title="spaCy" width="40" height="40"> <img src="assets/img/nltk.png" title="NLTK" width="40" height="40"> <img src="assets/img/langchain.jpg" title="LangChain" width="40" height="40"> <img src="assets/img/langgraph-color.jpg" title="LangGraph" width="40" height="40"> <img src="assets/img/langsmith-color.jpg" title="LangSmith" width="40" height="40"> <img src="assets/img/huggingface-2-removebg-preview.png" title="HuggingFace" width="40" height="40"> <img src="assets/img/kaggle-original-wordmark.svg" title="Kaggle" width="40" height="40"> <img src="assets/img/google-colab-icon.webp" title="Google Colab" width="40" height="40"> <img src="assets/img/white_bg_ollamalogo.png" title="Ollama" width="40" height="40"> <img src="assets/img/meta-6871457_1280.webp" title="Meta" width="40" height="40"> <img src="assets/img/white_bg_openai-2.png" title="OpenAI" width="40" height="40"> <img src="assets/img/mcp.jpg" title="Model Context Protocol" width="40" height="40"> <img src="assets/img/chroma.png" title="Chroma" width="40" height="40"> <img src="assets/img/weaviate.png" title="Weaviate" width="40" height="40"> |
+| **🌐 Frameworks & Libraries** | <img src="assets/img/react.png" title="React" width="40" height="40"> <img src="assets/img/free-node-js-icon-svg-download-png-1174935.webp" title="Node.js" width="40" height="40"> <img src="assets/img/fastapi.svg" title="FastAPI" width="40" height="40"> <img src="assets/img/white_bg_flask-original-wordmark.png" title="Flask" width="40" height="40"> <img src="assets/img/quart.png" title="Quart" width="40" height="40"> <img src="assets/img/white_bg_uvicorn.png" title="Uvicorn" width="40" height="40"> <img src="assets/img/streamlit-mark-color.svg" title="Streamlit" width="40" height="40"> <img src="assets/img/gradio-color.png" title="Gradio" width="40" height="40"> <img src="assets/img/Requests_Python_Logo.png" title="Requests" width="40" height="40"> <img src="assets/img/selenium-original.svg" title="Selenium" width="40" height="40"> <img src="assets/img/pytest.png" title="Pytest" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **🗃️ Databases**              | <img src="assets/img/mysql-original-wordmark-removebg-preview.png" title="MySQL" width="40" height="40"> <img src="assets/img/Postgresql_elephant.svg.png" title="PostgreSQL" width="40" height="40"> <img src="assets/img/white_bg_sqlite-original-wordmark.png" title="SQLite" width="40" height="40"> <img src="assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png" title="Neo4j" width="40" height="40"> <img src="assets/img/white_bg_phpmyadmin-thumb.png" title="PHPMyAdmin" width="40" height="40"> <img src="assets/img/white_bg_sqlalchemy-original-wordmark.png" title="SQLAlchemy" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **🛠️ DevOps & Tools**         | <img src="assets/img/white_bg_git-original-wordmark.png" title="Git" width="40" height="40"> <img src="assets/img/github-original-wordmark-removebg-preview.png" title="GitHub" width="40" height="40"> <img src="assets/img/github-actions.png" title="GitHub Actions" width="40" height="40"> <img src="assets/img/docker-original.svg" title="Docker" width="40" height="40"> <img src="assets/img/virtualbox.png" title="VirtualBox" width="40" height="40"> <img src="assets/img/aws.webp" title="AWS" width="40" height="40"> <img src="assets/img/white_bg_anaconda-original.png" title="Anaconda" width="40" height="40"> <img src="assets/img/poetry.png" title="Poetry" width="40" height="40"> <img src="assets/img/uv.svg" title="uv" width="40" height="40"> <img src="assets/img/npm.webp" title="npm" width="40" height="40"> <img src="assets/img/bun.png" title="Bun" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **🖥️ IDEs & Editors**         | <img src="assets/img/vscode-original.svg" title="VSCode" width="40" height="40"> <img src="assets/img/visualstudio-original.svg" title="Visual Studio" width="40" height="40"> <img src="assets/img/jupyter-original-wordmark-removebg-preview.png" title="Jupyter" width="40" height="40"> <img src="assets/img/white_bg_unity-original.png" title="Unity" width="40" height="40"> <img src="assets/img/blender-original-removebg-preview.png" title="Blender" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **💻 OS & Security**          | <img src="assets/img/white_bg_windows11-original.png" title="Windows" width="40" height="40"> <img src="assets/img/linux-original.svg" title="Linux" width="40" height="40"> <img src="assets/img/white_bg_Debian_logo.png" title="Debian" width="40" height="40"> <img src="assets/img/ubuntu-original.svg" title="Ubuntu" width="40" height="40"> <img src="assets/img/white_bg_kalilinux-original-wordmark.png" title="Kali Linux" width="40" height="40"> <img src="assets/img/Wireshark_icon_new.png" title="Wireshark" width="40" height="40">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-## 🏆 Trophies
+<img src="https://gh-trophy.cdnsoft.net/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 
-  <img src="https://gh-trophy.cdnsoft.net/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-</div>
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=tokyonight&hide_border=true">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=default&hide_border=true" alt="GitHub Streak Stats">
+</picture>
 
-## 📈 Statistics
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=tokyonight&hide_border=true">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=default&hide_border=true" alt="GitHub Streak Stats">
-  </picture>
-</div>
-
----
-
-## 💬 Top Languages
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
-
----
-
-## 📅 Contribution Timeline
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=default" alt="GitHub Profile Summary">
 </picture>
 
----
+<img width="100%" src="assets/github-snake.svg" alt="GitHub Contribution Snake">
 
-  <img width="100%" src="assets/github-snake.svg" alt="GitHub Contribution Snake">
-
-  <img src="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=GiuseppeBellamacina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 
 </div>
