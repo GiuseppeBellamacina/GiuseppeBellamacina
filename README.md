@@ -144,8 +144,8 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 ## 🏆 Trophies
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" onerror="this.style.display='none'">
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh-trophy.cdnsoft.net/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7">
+  <img src="https://gh-trophy.cdnsoft.net/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=flat&no-frame=true&row=1&column=7" alt="GitHub Trophies" onerror="this.style.display='none'">
 </picture>
 
 ---
