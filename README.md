@@ -19,6 +19,7 @@ Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
 - **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** - Exploring advanced techniques for image quality improvement
 - **[Warehouse Swarm Intelligence System](https://github.com/GiuseppeBellamacina/Warehouse-Swarm-Intelligence-System)** - Designing a multi-agent system for optimizing warehouse operations
 - **[GRPO Strict Code Generation](https://github.com/GiuseppeBellamacina/GRPO-strict-generation)** - RL-based LLM alignment for strict JSON/code generation
+- **[Videogame-Semantic-Search](https://github.com/GiuseppeBellamacina/Videogame-Semantic-Search)** - NL-to-SPARQL semantic search on OWL 2 ontology
 - An **AI to conquer the world** (I'm joking... maybe)
 - **Survive**
 
