@@ -1,12 +1,14 @@
 # 💫 About Me
 
-Hi there! 👋 I'm Giuseppe, a Computer Science student at the University of Catania. I'm passionate about Artificial Intelligence and Cybersecurity, always diving into new challenges and exploring the unknown. Most of the time, I just end up doing weird stuff because, well... Sbaddu Supecchiu.
+Hi there! 👋 I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.
 
-I'm a huge fan of Marvel and Star Wars universe, but I’m just as obsessed with anime and way too many other things to list here. I also have a deep love for video games.
+I currently work on AI systems used in operational environments, including projects connected to public healthcare organizations and the Italian Air Force Academy.
 
-Oh, and I have a thing for cars. I drive. (Yes, I'm Ryan Gosling).
+My work spans multi-agent architectures, Retrieval-Augmented Generation (RAG), structured query generation across SQL, graph databases (Cypher), and semantic ontologies systems (SPARQL), as well as model adaptation through fine-tuning, reinforcement learning, and knowledge distillation.
 
-🚀 Always learning, always building.
+I have experience developing and deploying AI systems using frameworks such as LangGraph and LangChain, with a strong focus on scalability, reliability, and system behavior under real constraints.
+
+On the infrastructure side, I’ve worked with multi-GPU on-premise environments (H100, L40S), inference serving with vLLM and Unsloth, vector databases such as FAISS and Chroma, graph databases like Neo4j, and REST APIs built with FastAPI. I also have experience working with AWS-based cloud systems.
 
 # 🌐 Contacts
 
