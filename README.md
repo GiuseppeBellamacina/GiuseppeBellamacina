@@ -18,10 +18,11 @@ On the infrastructure side, I’ve worked with multi-GPU on-premise environments
 
 # 🚀 Working on
 
-- **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** - Exploring advanced techniques for image quality improvement
-- **[Warehouse Swarm Intelligence System](https://github.com/GiuseppeBellamacina/Warehouse-Swarm-Intelligence-System)** - Designing a multi-agent system for optimizing warehouse operations
-- **[GRPO Strict Code Generation](https://github.com/GiuseppeBellamacina/GRPO-strict-generation)** - RL-based LLM alignment for strict JSON/code generation
-- **[Videogame-Semantic-Search](https://github.com/GiuseppeBellamacina/Videogame-Semantic-Search)** - NL-to-SPARQL semantic search on OWL 2 ontology
+- **[Constrained Decoding VLM](https://github.com/GiuseppeBellamacina/neuro_symbolic_t2g)** — Constrained decoding with grammars & VLMs (research)
+- **[CVRP Solver](https://github.com/GiuseppeBellamacina/capacitated-vehicle-routing-problem)** — Hybrid GA for CVRP with Numba + React dashboard
+- **[GRPO Strict Code Generation](https://github.com/GiuseppeBellamacina/GRPO-strict-generation)** — RL-based LLM alignment for strict JSON/code generation
+- **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** — Advanced image quality improvement
+- **[Warehouse Swarm Intelligence System](https://github.com/GiuseppeBellamacina/Warehouse-Swarm-Intelligence-System)** — Multi-agent warehouse optimization
 - An **AI to conquer the world** (I'm joking... maybe)
 - **Survive**
 
