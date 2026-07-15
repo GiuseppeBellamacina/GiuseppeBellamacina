@@ -18,7 +18,7 @@ On the infrastructure side, I’ve worked with multi-GPU on-premise environments
 
 # 🚀 Working on
 
-- **[Constrained Decoding VLM](https://github.com/GiuseppeBellamacina/neuro_symbolic_t2g)** — Constrained decoding with grammars & VLMs (research)
+- **[Constrained Decoding VLM](https://github.com/GiuseppeBellamacina/neuro_symbolic_t2g)** — Constrained decoding with grammars & VLMs
 - **[CVRP Solver](https://github.com/GiuseppeBellamacina/capacitated-vehicle-routing-problem)** — Hybrid GA for CVRP with Numba + React dashboard
 - **[GRPO Strict Code Generation](https://github.com/GiuseppeBellamacina/GRPO-strict-generation)** — RL-based LLM alignment for strict JSON/code generation
 - **[Image Enhancement](https://github.com/GiuseppeBellamacina/Image-Enhancement)** — Advanced image quality improvement
