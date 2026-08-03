@@ -43,7 +43,7 @@ On the infrastructure side, I’ve worked with multi-GPU on-premise environments
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://gh-trophy.cdnsoft.net/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 
 <!-- GitHub Stats
 <picture>
