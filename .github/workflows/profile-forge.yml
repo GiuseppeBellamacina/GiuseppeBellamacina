@@ -18,6 +18,7 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_FORGE_TOKEN || github.token }}
           output_dir: assets
+          config: profile.json
           timezone: Europe/Rome
           size_weight: "0.01"
           count_weight: "0.4"
@@ -26,11 +27,11 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/github-snake.svg?palette=github
+          outputs: assets/github-snake.svg?palette=github-dark&color_snake=purple
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets
+          git add assets profile.json
           git diff --cached --quiet || (git commit -m "chore: refresh profile card & snake" && git pull --rebase && git push)
