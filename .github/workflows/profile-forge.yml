@@ -1,0 +1,36 @@
+name: profile-forge
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: GiuseppeBellamacina/profile-forge@v1
+        with:
+          token: ${{ secrets.PROFILE_FORGE_TOKEN || github.token }}
+          output_dir: assets
+          timezone: Europe/Rome
+          size_weight: "0.01"
+          count_weight: "0.4"
+          hide: batchfile,shell,makefile
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: assets/github-snake.svg?palette=github
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || (git commit -m "chore: refresh profile card & snake" && git pull --rebase && git push)

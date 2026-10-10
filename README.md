@@ -38,32 +38,11 @@ On the infrastructure side, I’ve worked with multi-GPU on-premise environments
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=GiuseppeBellamacina&title=MultipleLang,Repositories,Stars,Commits,Experience,Followers&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-
-<!-- GitHub Stats
+<!-- profile-forge card: https://github.com/GiuseppeBellamacina/profile-forge (refreshed daily by .github/workflows/profile-forge.yml) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiuseppeBellamacina&show_icons=true&count_private=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-forge-dark.svg">
+  <img width="100%" src="assets/profile-forge-light.svg" alt="GitHub profile card: rank, stats, streak, languages, trophies">
 </picture>
--->
-
-<!-- GitHub Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=tokyonight&hide_border=true">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GiuseppeBellamacina&theme=default&hide_border=true" alt="GitHub Streak Stats">
-</picture>
-
-<!-- Top Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiuseppeBellamacina&size_weight=0.01&count_weight=0.4&langs_count=10&hide=batchfile,shell,makefile&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
--->
-
-<!-- GitHub Profile Summary
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiuseppeBellamacina&theme=default" alt="GitHub Profile Summary">
-</picture>
--->
 
 <!-- GitHub Contribution Snake -->
 <img width="100%" src="assets/github-snake.svg" alt="GitHub Contribution Snake">
