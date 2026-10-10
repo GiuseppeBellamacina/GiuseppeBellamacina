@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="44" viewBox="0 0 150 44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" role="img" aria-label="Portfolio">
+  <title>Portfolio</title>
+  <defs>
+    <linearGradient id="b" x1="0" x2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+    <linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="r"><rect width="150" height="44" rx="22"/></clipPath>
+  </defs>
+  <style>@keyframes sh{0%,55%{transform:translateX(-70px)}100%{transform:translateX(160px)}}.sh{animation:sh 4.5s ease-in-out infinite}</style>
+  <rect x=".75" y=".75" width="148.5" height="42.5" rx="21.25" fill="#1f2335" stroke="url(#b)" stroke-width="1.5"/>
+  <circle cx="24" cy="22" r="15" fill="#7aa2f7"/>
+  <g transform="translate(15 13) scale(1.125)" fill="#fff"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM5.78 8.75a9.64 9.64 0 0 0 1.363 4.177c.255.426.542.832.857 1.215.245-.296.551-.705.857-1.215A9.64 9.64 0 0 0 10.22 8.75Zm4.44-1.5a9.64 9.64 0 0 0-1.363-4.177c-.307-.51-.612-.919-.857-1.215a9.927 9.927 0 0 0-.857 1.215A9.64 9.64 0 0 0 5.78 7.25Zm-5.944 1.5H1.543a6.507 6.507 0 0 0 4.666 5.5c-.123-.181-.24-.365-.352-.552-.715-1.192-1.437-2.874-1.581-4.948Zm-2.733-1.5h2.733c.144-2.074.866-3.756 1.58-4.948.12-.197.237-.381.353-.552a6.507 6.507 0 0 0-4.666 5.5Zm10.181 1.5c-.144 2.074-.866 3.756-1.58 4.948-.12.197-.237.381-.353.552a6.507 6.507 0 0 0 4.666-5.5Zm2.733-1.5a6.507 6.507 0 0 0-4.666-5.5c.123.181.24.365.353.552.714 1.192 1.436 2.874 1.58 4.948Z"></path></g>
+  <text x="48" y="27.5" font-size="15" font-weight="700" fill="#c0caf5">Portfolio</text>
+  <path d="M124 26l8-8m-6 0h6v6" fill="none" stroke="#7c83a8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g clip-path="url(#r)"><rect class="sh" width="60" height="44" fill="url(#s)"/></g>
+</svg>
