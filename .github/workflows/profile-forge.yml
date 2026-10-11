@@ -2,11 +2,15 @@ name: profile-forge
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily
+    - cron: "23 3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: true
 
 jobs:
   refresh:
@@ -35,3 +39,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets profile.json
           git diff --cached --quiet || (git commit -m "chore: refresh profile card & snake" && git pull --rebase && git push)
+          
