@@ -24,26 +24,6 @@
       "title": "Survive"
     }
   ],
-  "links": [
-    {
-      "label": "Portfolio",
-      "url": "https://giuseppebellamacina.com",
-      "icon": "globe",
-      "color": "#7aa2f7"
-    },
-    {
-      "label": "Instagram",
-      "url": "https://www.instagram.com/giuseppe_bellamacina/",
-      "icon": "instagram",
-      "color": "#E4405F"
-    },
-    {
-      "label": "LinkedIn",
-      "url": "https://www.linkedin.com/in/giuseppe-bellamacina-739b03204/",
-      "icon": "linkedin",
-      "color": "#0A66C2"
-    }
-  ],
   "techStack": [
     {
       "category": "Languages",
