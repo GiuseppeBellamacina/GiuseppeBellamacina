@@ -3,8 +3,8 @@
   "title": "AI Engineer",
   "timezone": "Europe/Rome",
   "themes": {
-    "dark": "dark",
-    "light": "light"
+    "dark": "neon",
+    "light": "dayfox"
   },
   "about": [
     "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
@@ -461,12 +461,48 @@
     "sizeWeight": 0.01,
     "countWeight": 0.4,
     "hide": [
-      "batchfile",
+      "makefile",
+      "PLpgSQL",
+      "Processing",
       "shell",
-      "makefile"
-    ]
+      "batchfile",
+      "Dockerfile",
+      "TOML"
+    ],
+    "count": 20
   },
   "heatmap": {
-    "mode": "snake"
+    "mode": "snake",
+    "cell": "triangle"
+  },
+  "includePrivate": true,
+  "card": {
+    "radius": 45
+  },
+  "layout": [
+    "header",
+    [
+      "about",
+      "languages"
+    ],
+    "heatmap",
+    [
+      "stats",
+      "streak"
+    ],
+    "trophies",
+    "techStack"
+  ],
+  "header": {
+    "rankThickness": 10,
+    "frame": "auto"
+  },
+  "streak": {
+    "excludeDaysLabel": false,
+    "dateFormat": "j M[ Y]"
+  },
+  "trophies": {
+    "rows": 2,
+    "noFrame": true
   }
 }
