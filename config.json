@@ -1,5 +1,11 @@
 {
+  "$schema": "https://raw.githubusercontent.com/GiuseppeBellamacina/profile-forge/main/config.schema.json",
   "title": "AI Engineer",
+  "timezone": "Europe/Rome",
+  "themes": {
+    "dark": "dark",
+    "light": "light"
+  },
   "about": [
     "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
     "I currently work on AI systems used in operational environments, including projects connected to public healthcare organizations and the Italian Air Force Academy."
@@ -470,5 +476,17 @@
         }
       ]
     }
-  ]
+  ],
+  "languages": {
+    "sizeWeight": 0.01,
+    "countWeight": 0.4,
+    "hide": [
+      "batchfile",
+      "shell",
+      "makefile"
+    ]
+  },
+  "heatmap": {
+    "mode": "snake"
+  }
 }
