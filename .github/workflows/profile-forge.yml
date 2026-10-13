@@ -1,9 +1,13 @@
+# Rebuilds the profile card every day and whenever config.json changes. Run it by hand from the Actions tab.
+# Everything about the card lives in config.json (themes, sections, heatmap snake, language weights, time zone).
 name: profile-forge
 
 on:
   schedule:
     - cron: "0 20 * * *"
   workflow_dispatch:
+  push:
+    paths: [config.json]
 
 permissions:
   contents: write
@@ -14,29 +18,18 @@ concurrency:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - uses: GiuseppeBellamacina/profile-forge@v1
         with:
           token: ${{ secrets.PROFILE_FORGE_TOKEN || github.token }}
           output_dir: assets
-          config: profile.json
-          timezone: Europe/Rome
-          size_weight: "0.01"
-          count_weight: "0.4"
-          hide: batchfile,shell,makefile
-
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: assets/github-snake.svg?palette=github-dark&color_snake=purple
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets profile.json
-          git diff --cached --quiet || (git commit -m "chore: refresh profile card & snake" && git pull --rebase && git push)
-          
+          git add assets
+          git diff --cached --quiet || (git commit -m "chore: refresh profile card" && git pull --rebase && git push)
