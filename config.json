@@ -467,7 +467,8 @@
       "shell",
       "batchfile",
       "Dockerfile",
-      "TOML"
+      "TOML",
+      "Go template"
     ],
     "count": 20
   },
