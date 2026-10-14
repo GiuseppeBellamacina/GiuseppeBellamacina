@@ -458,7 +458,6 @@
     }
   ],
   "languages": {
-    "sizeWeight": 0.01,
     "countWeight": 0.4,
     "hide": [
       "makefile",
@@ -468,9 +467,13 @@
       "batchfile",
       "Dockerfile",
       "TOML",
-      "Go template"
+      "Go template",
+      "Jupyter Notebook",
+      "PowerShell",
+      "Tex"
     ],
-    "count": 20
+    "count": 20,
+    "sizeWeight": 0.1
   },
   "heatmap": {
     "mode": "snake",
@@ -496,7 +499,8 @@
   ],
   "header": {
     "rankThickness": 10,
-    "frame": "auto"
+    "frame": "auto",
+    "rankStyle": "hexagon"
   },
   "streak": {
     "excludeDaysLabel": false,
