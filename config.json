@@ -499,7 +499,7 @@
   ],
   "header": {
     "rankThickness": 10,
-    "frame": "auto",
+    "frame": "pixel",
     "rankStyle": "hexagon"
   },
   "streak": {
@@ -508,6 +508,31 @@
   },
   "trophies": {
     "rows": 2,
-    "noFrame": true
+    "noFrame": true,
+    "extra": [
+      "Issues"
+    ],
+    "titles": [
+      "Stars",
+      "Commits",
+      "PullRequest",
+      "Repositories",
+      "Experience",
+      "MultiLanguage",
+      "PerfectMonth",
+      "Marathon",
+      "Phoenix",
+      "Elite",
+      "FridayDeployer",
+      "Hacktoberfest",
+      "TrickOrCommit",
+      "Friday13",
+      "MayTheFourth",
+      "Day256",
+      "Birthday",
+      "ProfileCrafter",
+      "OldGuard",
+      "Sharpshooter"
+    ]
   }
 }
