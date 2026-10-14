@@ -500,23 +500,23 @@
   "header": {
     "rankThickness": 10,
     "frame": "pixel",
-    "rankStyle": "hexagon"
+    "rankStyle": "hexagon",
+    "flag": "assets/img/flag.svg"
   },
   "streak": {
     "excludeDaysLabel": false,
     "dateFormat": "j M[ Y]"
   },
   "trophies": {
-    "rows": 2,
     "noFrame": true,
     "extra": [
       "Issues"
     ],
     "titles": [
-      "Stars",
       "Commits",
-      "PullRequest",
       "Repositories",
+      "PullRequest",
+      "Stars",
       "Experience",
       "MultiLanguage",
       "PerfectMonth",
@@ -527,12 +527,17 @@
       "Hacktoberfest",
       "TrickOrCommit",
       "Friday13",
-      "MayTheFourth",
       "Day256",
+      "MayTheFourth",
       "Birthday",
       "ProfileCrafter",
       "OldGuard",
       "Sharpshooter"
-    ]
+    ],
+    "columns": 7,
+    "birthday": "06-24"
+  },
+  "marquee": {
+    "rows": 3
   }
 }
