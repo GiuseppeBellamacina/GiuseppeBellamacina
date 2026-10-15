@@ -41,6 +41,14 @@
           "image": "assets/img/cplusplus-original.svg"
         },
         {
+          "name": "Rust",
+          "image": "assets/img/rust-original.svg"
+        },
+        {
+          "name": "Go",
+          "image": "assets/img/go-original.svg"
+        },
+        {
           "name": "C#",
           "image": "assets/img/csharp-original.svg"
         },
@@ -306,6 +314,35 @@
         {
           "name": "SPARQL",
           "image": "assets/img/sparql-128.png"
+        }
+      ]
+    },
+    {
+      "category": "Data & Streaming",
+      "items": [
+        {
+          "name": "Apache Kafka",
+          "image": "assets/img/apachekafka-original.svg"
+        },
+        {
+          "name": "Apache Spark",
+          "image": "assets/img/apachespark-original.svg"
+        },
+        {
+          "name": "Elasticsearch",
+          "image": "assets/img/elasticsearch-original.svg"
+        },
+        {
+          "name": "Logstash",
+          "image": "assets/img/logstash-original.svg"
+        },
+        {
+          "name": "Kibana",
+          "image": "assets/img/kibana-original.svg"
+        },
+        {
+          "name": "n8n",
+          "image": "assets/img/n8n.svg"
         }
       ]
     },
