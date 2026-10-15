@@ -41,16 +41,16 @@
           "image": "assets/img/cplusplus-original.svg"
         },
         {
+          "name": "C#",
+          "image": "assets/img/csharp-original.svg"
+        },
+        {
           "name": "Rust",
           "image": "assets/img/rust-original.svg"
         },
         {
           "name": "Go",
           "image": "assets/img/go-original.svg"
-        },
-        {
-          "name": "C#",
-          "image": "assets/img/csharp-original.svg"
         },
         {
           "name": "Java",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "category": "AI/ML & Data Science",
+      "category": "Machine Learning & NLP",
       "items": [
         {
           "name": "Pytorch",
@@ -102,10 +102,6 @@
           "image": "assets/img/tensorflow.png"
         },
         {
-          "name": "Weights & Biases",
-          "image": "assets/img/wandb.png"
-        },
-        {
           "name": "Keras",
           "image": "assets/img/keras-original.svg"
         },
@@ -113,6 +109,84 @@
           "name": "Sklearn",
           "image": "assets/img/white_bg_scikitlearn-original.png"
         },
+        {
+          "name": "spaCy",
+          "image": "assets/img/spacy.png"
+        },
+        {
+          "name": "NLTK",
+          "image": "assets/img/nltk.png"
+        },
+        {
+          "name": "HuggingFace",
+          "image": "assets/img/huggingface-2-removebg-preview.png"
+        },
+        {
+          "name": "TRL",
+          "image": "assets/img/logo-trl.png"
+        },
+        {
+          "name": "Unsloth",
+          "image": "assets/img/unsloth.webp"
+        },
+        {
+          "name": "vLLM",
+          "image": "assets/img/vLLM-Full-Logo.svg"
+        },
+        {
+          "name": "Weights & Biases",
+          "image": "assets/img/wandb.png"
+        }
+      ]
+    },
+    {
+      "category": "LLMs & Agents",
+      "items": [
+        {
+          "name": "LangChain",
+          "image": "assets/img/langchain.jpg"
+        },
+        {
+          "name": "LangGraph",
+          "image": "assets/img/langgraph-color.jpg"
+        },
+        {
+          "name": "LangSmith",
+          "image": "assets/img/langsmith-color.jpg"
+        },
+        {
+          "name": "Ollama",
+          "image": "assets/img/white_bg_ollamalogo.png"
+        },
+        {
+          "name": "OpenAI",
+          "image": "assets/img/white_bg_openai-2.png"
+        },
+        {
+          "name": "Meta",
+          "image": "assets/img/meta-6871457_1280.webp"
+        },
+        {
+          "name": "Model Context Protocol",
+          "image": "assets/img/mcp.jpg"
+        },
+        {
+          "name": "Claude",
+          "image": "assets/img/claude.png"
+        },
+        {
+          "name": "OpenCode",
+          "image": "assets/img/opencode.webp"
+        },
+        {
+          "name": "GitHub Copilot",
+          "image": "assets/img/githubcopilot.webp"
+        }
+      ]
+    },
+    {
+      "category": "Data Science & Vision",
+      "items": [
         {
           "name": "Numpy",
           "image": "assets/img/numpy-original.svg"
@@ -146,93 +220,13 @@
           "image": "assets/img/pillow-logo-248x250.png"
         },
         {
-          "name": "spaCy",
-          "image": "assets/img/spacy.png"
-        },
-        {
-          "name": "NLTK",
-          "image": "assets/img/nltk.png"
-        },
-        {
-          "name": "Streamlit",
-          "image": "assets/img/streamlit-mark-color.svg"
-        },
-        {
-          "name": "Gradio",
-          "image": "assets/img/gradio-color.png"
-        },
-        {
-          "name": "LangChain",
-          "image": "assets/img/langchain.jpg"
-        },
-        {
-          "name": "LangGraph",
-          "image": "assets/img/langgraph-color.jpg"
-        },
-        {
-          "name": "LangSmith",
-          "image": "assets/img/langsmith-color.jpg"
-        },
-        {
-          "name": "HuggingFace",
-          "image": "assets/img/huggingface-2-removebg-preview.png"
-        },
-        {
           "name": "Kaggle",
           "image": "assets/img/kaggle-original-wordmark.svg"
-        },
-        {
-          "name": "TRL",
-          "image": "assets/img/logo-trl.png"
-        },
-        {
-          "name": "Unsloth",
-          "image": "assets/img/unsloth.webp"
-        },
-        {
-          "name": "vLLM",
-          "image": "assets/img/vLLM-Full-Logo.svg"
-        },
-        {
-          "name": "Ollama",
-          "image": "assets/img/white_bg_ollamalogo.png"
-        },
-        {
-          "name": "Meta",
-          "image": "assets/img/meta-6871457_1280.webp"
-        },
-        {
-          "name": "OpenAI",
-          "image": "assets/img/white_bg_openai-2.png"
-        },
-        {
-          "name": "Model Context Protocol",
-          "image": "assets/img/mcp.jpg"
-        },
-        {
-          "name": "Claude",
-          "image": "assets/img/claude.png"
-        },
-        {
-          "name": "OpenCode",
-          "image": "assets/img/opencode.webp"
-        },
-        {
-          "name": "GitHub Copilot",
-          "image": "assets/img/githubcopilot.webp"
-        },
-        {
-          "name": "Chroma",
-          "image": "assets/img/chroma.png"
-        },
-        {
-          "name": "Weaviate",
-          "image": "assets/img/weaviate.png"
         }
       ]
     },
     {
-      "category": "Frameworks & Libraries",
+      "category": "Web & Backend",
       "items": [
         {
           "name": "Svelte",
@@ -251,6 +245,18 @@
           "image": "assets/img/free-node-js-icon-svg-download-png-1174935.webp"
         },
         {
+          "name": "Bun",
+          "image": "assets/img/bun.png"
+        },
+        {
+          "name": "npm",
+          "image": "assets/img/npm.webp"
+        },
+        {
+          "name": "Vite",
+          "image": "assets/img/vite.svg"
+        },
+        {
           "name": "FastAPI",
           "image": "assets/img/fastapi.svg"
         },
@@ -263,6 +269,18 @@
           "image": "assets/img/quart.png"
         },
         {
+          "name": "Uvicorn",
+          "image": "assets/img/white_bg_uvicorn.png"
+        },
+        {
+          "name": "Streamlit",
+          "image": "assets/img/streamlit-mark-color.svg"
+        },
+        {
+          "name": "Gradio",
+          "image": "assets/img/gradio-color.png"
+        },
+        {
           "name": "Requests",
           "image": "assets/img/Requests_Python_Logo.png"
         },
@@ -273,10 +291,6 @@
         {
           "name": "Selenium",
           "image": "assets/img/selenium-original.svg"
-        },
-        {
-          "name": "Pytest",
-          "image": "assets/img/pytest.webp"
         }
       ]
     },
@@ -296,29 +310,37 @@
           "image": "assets/img/white_bg_sqlite-original-wordmark.png"
         },
         {
-          "name": "Neo4j",
-          "image": "assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png"
-        },
-        {
-          "name": "SQLAlchemy",
-          "image": "assets/img/white_bg_sqlalchemy-original-wordmark.png"
+          "name": "Redis",
+          "image": "assets/img/redis-icon.png"
         },
         {
           "name": "Upstash",
           "image": "assets/img/upstash.png"
         },
         {
-          "name": "Redis",
-          "image": "assets/img/redis-icon.png"
+          "name": "Neo4j",
+          "image": "assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png"
         },
         {
           "name": "SPARQL",
           "image": "assets/img/sparql-128.png"
+        },
+        {
+          "name": "SQLAlchemy",
+          "image": "assets/img/white_bg_sqlalchemy-original-wordmark.png"
+        },
+        {
+          "name": "Chroma",
+          "image": "assets/img/chroma.png"
+        },
+        {
+          "name": "Weaviate",
+          "image": "assets/img/weaviate.png"
         }
       ]
     },
     {
-      "category": "Data & Streaming",
+      "category": "Data Engineering",
       "items": [
         {
           "name": "Apache Kafka",
@@ -366,8 +388,8 @@
           "image": "assets/img/docker-original.svg"
         },
         {
-          "name": "Vite",
-          "image": "assets/img/vite.svg"
+          "name": "AWS",
+          "image": "assets/img/aws.webp"
         },
         {
           "name": "Vercel",
@@ -386,10 +408,6 @@
           "image": "assets/img/virtualbox.png"
         },
         {
-          "name": "AWS",
-          "image": "assets/img/aws.webp"
-        },
-        {
           "name": "Anaconda",
           "image": "assets/img/white_bg_anaconda-original.png"
         },
@@ -402,20 +420,8 @@
           "image": "assets/img/uv.svg"
         },
         {
-          "name": "Uvicorn",
-          "image": "assets/img/white_bg_uvicorn.png"
-        },
-        {
-          "name": "npm",
-          "image": "assets/img/npm.webp"
-        },
-        {
-          "name": "Bun",
-          "image": "assets/img/bun.png"
-        },
-        {
-          "name": "PHPMyAdmin",
-          "image": "assets/img/white_bg_phpmyadmin-thumb.png"
+          "name": "Pytest",
+          "image": "assets/img/pytest.webp"
         }
       ]
     },
@@ -431,12 +437,12 @@
           "image": "assets/img/visualstudio-original.svg"
         },
         {
-          "name": "Antigravity",
-          "image": "assets/img/antigravity-color.png"
-        },
-        {
           "name": "Cursor",
           "image": "assets/img/Cursor_logo.png"
+        },
+        {
+          "name": "Antigravity",
+          "image": "assets/img/antigravity-color.png"
         },
         {
           "name": "Jupyter",
@@ -445,6 +451,10 @@
         {
           "name": "Google Colab",
           "image": "assets/img/google-colab-icon.webp"
+        },
+        {
+          "name": "PHPMyAdmin",
+          "image": "assets/img/white_bg_phpmyadmin-thumb.png"
         },
         {
           "name": "Unity",
