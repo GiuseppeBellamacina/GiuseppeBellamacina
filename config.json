@@ -502,10 +502,6 @@
           "image": "assets/img/pyright.png"
         },
         {
-          "name": "gopls",
-          "image": "assets/img/gopls.svg"
-        },
-        {
           "name": "Playwright",
           "image": "assets/img/playwright.svg"
         }
