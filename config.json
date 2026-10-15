@@ -30,39 +30,39 @@
       "items": [
         {
           "name": "Python",
-          "image": "assets/img/python-original.svg"
+          "image": "assets/img/python.svg"
         },
         {
           "name": "C",
-          "image": "assets/img/c-original.svg"
+          "image": "assets/img/c.svg"
         },
         {
           "name": "C++",
-          "image": "assets/img/cplusplus-original.svg"
+          "image": "assets/img/cplusplus.svg"
         },
         {
           "name": "C#",
-          "image": "assets/img/csharp-original.svg"
+          "image": "assets/img/csharp.svg"
         },
         {
           "name": "Rust",
-          "image": "assets/img/rust-original.svg"
+          "image": "assets/img/rust.svg"
         },
         {
           "name": "Go",
-          "image": "assets/img/go-original.svg"
+          "image": "assets/img/go.svg"
         },
         {
           "name": "Java",
-          "image": "assets/img/java-original-wordmark-removebg-preview.png"
+          "image": "assets/img/java.png"
         },
         {
           "name": "Javascript",
-          "image": "assets/img/js.png"
+          "image": "assets/img/javascript.png"
         },
         {
           "name": "TypeScript",
-          "image": "assets/img/Typescript_logo_2020.svg.png"
+          "image": "assets/img/typescript.png"
         },
         {
           "name": "Bash",
@@ -74,15 +74,27 @@
         },
         {
           "name": "HTML",
-          "image": "assets/img/white_bg_HTML5_logo_and_wordmark.svg.png"
+          "image": "assets/img/html5.png"
         },
         {
           "name": "CSS",
-          "image": "assets/img/css.png"
+          "image": "assets/img/css3.png"
         },
         {
           "name": "Latex",
-          "image": "assets/img/white_bg_latex-original.png"
+          "image": "assets/img/latex.png"
+        },
+        {
+          "name": "PowerShell",
+          "image": "assets/img/powershell.svg"
+        },
+        {
+          "name": "JSON",
+          "image": "assets/img/json.svg"
+        },
+        {
+          "name": "YAML",
+          "image": "assets/img/yaml.svg"
         }
       ]
     },
@@ -91,11 +103,11 @@
       "items": [
         {
           "name": "Pytorch",
-          "image": "assets/img/pytorch-original.svg"
+          "image": "assets/img/pytorch.svg"
         },
         {
           "name": "PyTorch Lightning",
-          "image": "assets/img/lightning.png"
+          "image": "assets/img/pytorch-lightning.png"
         },
         {
           "name": "TensorFlow",
@@ -103,11 +115,11 @@
         },
         {
           "name": "Keras",
-          "image": "assets/img/keras-original.svg"
+          "image": "assets/img/keras.svg"
         },
         {
           "name": "Sklearn",
-          "image": "assets/img/white_bg_scikitlearn-original.png"
+          "image": "assets/img/scikitlearn.png"
         },
         {
           "name": "spaCy",
@@ -119,11 +131,11 @@
         },
         {
           "name": "HuggingFace",
-          "image": "assets/img/huggingface-2-removebg-preview.png"
+          "image": "assets/img/huggingface.png"
         },
         {
           "name": "TRL",
-          "image": "assets/img/logo-trl.png"
+          "image": "assets/img/trl.png"
         },
         {
           "name": "Unsloth",
@@ -131,11 +143,27 @@
         },
         {
           "name": "vLLM",
-          "image": "assets/img/vLLM-Full-Logo.svg"
+          "image": "assets/img/vllm.svg"
         },
         {
           "name": "Weights & Biases",
-          "image": "assets/img/wandb.png"
+          "image": "assets/img/weights-biases.png"
+        },
+        {
+          "name": "Pydantic",
+          "image": "assets/img/pydantic.svg"
+        },
+        {
+          "name": "ONNX",
+          "image": "assets/img/onnx.svg"
+        },
+        {
+          "name": "XGBoost",
+          "image": "assets/img/xgboost.png"
+        },
+        {
+          "name": "LightGBM",
+          "image": "assets/img/lightgbm.svg"
         }
       ]
     },
@@ -148,27 +176,27 @@
         },
         {
           "name": "LangGraph",
-          "image": "assets/img/langgraph-color.jpg"
+          "image": "assets/img/langgraph.jpg"
         },
         {
           "name": "LangSmith",
-          "image": "assets/img/langsmith-color.jpg"
+          "image": "assets/img/langsmith.jpg"
         },
         {
           "name": "Ollama",
-          "image": "assets/img/white_bg_ollamalogo.png"
+          "image": "assets/img/ollama.png"
         },
         {
           "name": "OpenAI",
-          "image": "assets/img/white_bg_openai-2.png"
+          "image": "assets/img/openai.png"
         },
         {
           "name": "Meta",
-          "image": "assets/img/meta-6871457_1280.webp"
+          "image": "assets/img/meta.webp"
         },
         {
           "name": "Model Context Protocol",
-          "image": "assets/img/mcp.jpg"
+          "image": "assets/img/model-context-protocol.jpg"
         },
         {
           "name": "Claude",
@@ -180,7 +208,7 @@
         },
         {
           "name": "GitHub Copilot",
-          "image": "assets/img/githubcopilot.webp"
+          "image": "assets/img/github-copilot.webp"
         }
       ]
     },
@@ -189,11 +217,11 @@
       "items": [
         {
           "name": "Numpy",
-          "image": "assets/img/numpy-original.svg"
+          "image": "assets/img/numpy.svg"
         },
         {
           "name": "Pandas",
-          "image": "assets/img/white_bg_pandas-original.png"
+          "image": "assets/img/pandas.png"
         },
         {
           "name": "Polars",
@@ -201,11 +229,11 @@
         },
         {
           "name": "Matplotlib",
-          "image": "assets/img/matplotlib-original.svg"
+          "image": "assets/img/matplotlib.svg"
         },
         {
           "name": "Seaborn",
-          "image": "assets/img/seaborn-1.svg"
+          "image": "assets/img/seaborn.svg"
         },
         {
           "name": "Plotly",
@@ -213,15 +241,19 @@
         },
         {
           "name": "OpenCV",
-          "image": "assets/img/opencv-original.svg"
+          "image": "assets/img/opencv.svg"
         },
         {
           "name": "Pillow",
-          "image": "assets/img/pillow-logo-248x250.png"
+          "image": "assets/img/pillow.png"
         },
         {
           "name": "Kaggle",
-          "image": "assets/img/kaggle-original-wordmark.svg"
+          "image": "assets/img/kaggle.svg"
+        },
+        {
+          "name": "SciPy",
+          "image": "assets/img/scipy.svg"
         }
       ]
     },
@@ -238,11 +270,11 @@
         },
         {
           "name": "Three.js",
-          "image": "assets/img/three.png"
+          "image": "assets/img/threejs.png"
         },
         {
           "name": "Node.js",
-          "image": "assets/img/free-node-js-icon-svg-download-png-1174935.webp"
+          "image": "assets/img/nodejs.webp"
         },
         {
           "name": "Bun",
@@ -262,7 +294,7 @@
         },
         {
           "name": "Flask",
-          "image": "assets/img/white_bg_flask-original-wordmark.png"
+          "image": "assets/img/flask.png"
         },
         {
           "name": "Quart",
@@ -270,19 +302,19 @@
         },
         {
           "name": "Uvicorn",
-          "image": "assets/img/white_bg_uvicorn.png"
+          "image": "assets/img/uvicorn.png"
         },
         {
           "name": "Streamlit",
-          "image": "assets/img/streamlit-mark-color.svg"
+          "image": "assets/img/streamlit.svg"
         },
         {
           "name": "Gradio",
-          "image": "assets/img/gradio-color.png"
+          "image": "assets/img/gradio.png"
         },
         {
           "name": "Requests",
-          "image": "assets/img/Requests_Python_Logo.png"
+          "image": "assets/img/requests.png"
         },
         {
           "name": "BeautifulSoup",
@@ -290,7 +322,19 @@
         },
         {
           "name": "Selenium",
-          "image": "assets/img/selenium-original.svg"
+          "image": "assets/img/selenium.svg"
+        },
+        {
+          "name": "Next.js",
+          "image": "assets/img/nextjs.svg"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "assets/img/tailwindcss.svg"
+        },
+        {
+          "name": "GraphQL",
+          "image": "assets/img/graphql.svg"
         }
       ]
     },
@@ -299,19 +343,19 @@
       "items": [
         {
           "name": "MySQL",
-          "image": "assets/img/mysql-original-wordmark-removebg-preview.png"
+          "image": "assets/img/mysql.png"
         },
         {
           "name": "PostgreSQL",
-          "image": "assets/img/Postgresql_elephant.svg.png"
+          "image": "assets/img/postgresql.png"
         },
         {
           "name": "SQLite",
-          "image": "assets/img/white_bg_sqlite-original-wordmark.png"
+          "image": "assets/img/sqlite.png"
         },
         {
           "name": "Redis",
-          "image": "assets/img/redis-icon.png"
+          "image": "assets/img/redis.png"
         },
         {
           "name": "Upstash",
@@ -319,16 +363,21 @@
         },
         {
           "name": "Neo4j",
-          "image": "assets/img/white_bg_neo4j-icon-452x512-b63ajo4a.png"
+          "image": "assets/img/neo4j.png"
         },
         {
           "name": "SPARQL",
-          "image": "assets/img/sparql-128.png"
+          "image": "assets/img/sparql.png"
         },
         {
           "name": "SQLAlchemy",
-          "image": "assets/img/white_bg_sqlalchemy-original-wordmark.png"
-        },
+          "image": "assets/img/sqlalchemy.png"
+        }
+      ]
+    },
+    {
+      "category": "Retrieval & Vector Search",
+      "items": [
         {
           "name": "Chroma",
           "image": "assets/img/chroma.png"
@@ -336,6 +385,22 @@
         {
           "name": "Weaviate",
           "image": "assets/img/weaviate.png"
+        },
+        {
+          "name": "Elasticsearch",
+          "image": "assets/img/elasticsearch.svg"
+        },
+        {
+          "name": "Qdrant",
+          "image": "assets/img/qdrant.svg"
+        },
+        {
+          "name": "Pinecone",
+          "image": "assets/img/pinecone.svg"
+        },
+        {
+          "name": "Milvus",
+          "image": "assets/img/milvus.svg"
         }
       ]
     },
@@ -344,23 +409,19 @@
       "items": [
         {
           "name": "Apache Kafka",
-          "image": "assets/img/apachekafka-original.svg"
+          "image": "assets/img/apachekafka.svg"
         },
         {
           "name": "Apache Spark",
-          "image": "assets/img/apachespark-original.svg"
-        },
-        {
-          "name": "Elasticsearch",
-          "image": "assets/img/elasticsearch-original.svg"
+          "image": "assets/img/apachespark.svg"
         },
         {
           "name": "Logstash",
-          "image": "assets/img/logstash-original.svg"
+          "image": "assets/img/logstash.svg"
         },
         {
           "name": "Kibana",
-          "image": "assets/img/kibana-original.svg"
+          "image": "assets/img/kibana.svg"
         },
         {
           "name": "n8n",
@@ -373,27 +434,27 @@
       "items": [
         {
           "name": "Git",
-          "image": "assets/img/white_bg_git-original-wordmark.png"
+          "image": "assets/img/git.png"
         },
         {
           "name": "GitHub",
-          "image": "assets/img/github-original-wordmark-removebg-preview.png"
+          "image": "assets/img/github.png"
         },
         {
           "name": "GitHub Actions",
-          "image": "assets/img/github-actions.png"
+          "image": "assets/img/githubactions.png"
         },
         {
           "name": "Docker",
-          "image": "assets/img/docker-original.svg"
+          "image": "assets/img/docker.svg"
         },
         {
           "name": "AWS",
-          "image": "assets/img/aws.webp"
+          "image": "assets/img/amazonwebservices.webp"
         },
         {
           "name": "Vercel",
-          "image": "assets/img/Vercel_favicon.svg"
+          "image": "assets/img/vercel.svg"
         },
         {
           "name": "Render",
@@ -409,7 +470,20 @@
         },
         {
           "name": "Anaconda",
-          "image": "assets/img/white_bg_anaconda-original.png"
+          "image": "assets/img/anaconda.png"
+        },
+        {
+          "name": "Kubernetes",
+          "image": "assets/img/kubernetes.svg"
+        }
+      ]
+    },
+    {
+      "category": "Dev Tooling",
+      "items": [
+        {
+          "name": "Pytest",
+          "image": "assets/img/pytest.webp"
         },
         {
           "name": "Poetry",
@@ -420,8 +494,20 @@
           "image": "assets/img/uv.svg"
         },
         {
-          "name": "Pytest",
-          "image": "assets/img/pytest.webp"
+          "name": "Ruff",
+          "image": "assets/img/ruff.svg"
+        },
+        {
+          "name": "Pyright",
+          "image": "assets/img/pyright.png"
+        },
+        {
+          "name": "gopls",
+          "image": "assets/img/gopls.svg"
+        },
+        {
+          "name": "Playwright",
+          "image": "assets/img/playwright.svg"
         }
       ]
     },
@@ -430,39 +516,39 @@
       "items": [
         {
           "name": "VSCode",
-          "image": "assets/img/vscode-original.svg"
+          "image": "assets/img/vscode.svg"
         },
         {
           "name": "Visual Studio",
-          "image": "assets/img/visualstudio-original.svg"
+          "image": "assets/img/visualstudio.svg"
         },
         {
           "name": "Cursor",
-          "image": "assets/img/Cursor_logo.png"
+          "image": "assets/img/cursor.png"
         },
         {
           "name": "Antigravity",
-          "image": "assets/img/antigravity-color.png"
+          "image": "assets/img/antigravity.png"
         },
         {
           "name": "Jupyter",
-          "image": "assets/img/jupyter-original-wordmark-removebg-preview.png"
+          "image": "assets/img/jupyter.png"
         },
         {
           "name": "Google Colab",
-          "image": "assets/img/google-colab-icon.webp"
+          "image": "assets/img/google-colab.webp"
         },
         {
           "name": "PHPMyAdmin",
-          "image": "assets/img/white_bg_phpmyadmin-thumb.png"
+          "image": "assets/img/phpmyadmin.png"
         },
         {
           "name": "Unity",
-          "image": "assets/img/white_bg_unity-original.png"
+          "image": "assets/img/unity.png"
         },
         {
           "name": "Blender",
-          "image": "assets/img/blender-original-removebg-preview.png"
+          "image": "assets/img/blender.png"
         }
       ]
     },
@@ -471,35 +557,39 @@
       "items": [
         {
           "name": "Windows",
-          "image": "assets/img/white_bg_windows11-original.png"
+          "image": "assets/img/windows11.png"
         },
         {
           "name": "Linux",
-          "image": "assets/img/linux-original.svg"
+          "image": "assets/img/linux.svg"
         },
         {
           "name": "Debian",
-          "image": "assets/img/white_bg_Debian_logo.png"
+          "image": "assets/img/debian.png"
         },
         {
           "name": "Ubuntu",
-          "image": "assets/img/ubuntu-original.svg"
+          "image": "assets/img/ubuntu.svg"
         },
         {
           "name": "Kali Linux",
-          "image": "assets/img/white_bg_kalilinux-original-wordmark.png"
+          "image": "assets/img/kali-linux.png"
         },
         {
           "name": "Wireshark",
-          "image": "assets/img/Wireshark_icon_new.png"
+          "image": "assets/img/wireshark.png"
         },
         {
           "name": "Burp Suite",
-          "image": "assets/img/burp.png"
+          "image": "assets/img/burp-suite.png"
         },
         {
           "name": "Nmap",
           "image": "assets/img/nmap.jpg"
+        },
+        {
+          "name": "WSL",
+          "image": "assets/img/wsl.png"
         }
       ]
     }
