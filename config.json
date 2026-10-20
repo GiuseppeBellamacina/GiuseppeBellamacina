@@ -3,8 +3,8 @@
   "title": "AI Engineer",
   "timezone": "Europe/Rome",
   "themes": {
-    "dark": "neon",
-    "light": "dayfox"
+    "dark": "blood-moon",
+    "light": "glacier"
   },
   "about": [
     "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
@@ -610,7 +610,9 @@
   },
   "heatmap": {
     "mode": "snake",
-    "cell": "triangle"
+    "cell": "triangle",
+    "snakeStyle": "glow",
+    "snakeLength": 9
   },
   "includePrivate": true,
   "card": {
@@ -668,9 +670,14 @@
       "Sharpshooter"
     ],
     "columns": 7,
-    "birthday": "06-24"
+    "birthday": "06-24",
+    "sort": "rank"
   },
   "marquee": {
     "rows": 4
+  },
+  "colors": {
+    "frameColor": "c71529",
+    "snakeColor": "efd7da"
   }
 }
