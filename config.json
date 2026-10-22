@@ -686,6 +686,9 @@
     "snakeColor": "efd7da"
   },
   "orgs": {
-    "sort": "popularity"
+    "sort": "popularity",
+    "hide": [
+      "UNICT-Quality-Development"
+    ]
   }
 }
