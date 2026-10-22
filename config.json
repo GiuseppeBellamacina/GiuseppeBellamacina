@@ -611,8 +611,7 @@
   "heatmap": {
     "mode": "snake",
     "cell": "triangle",
-    "snakeStyle": "glow",
-    "snakeLength": 9
+    "snakeStyle": "glow"
   },
   "includePrivate": true,
   "card": {
@@ -644,14 +643,15 @@
   },
   "trophies": {
     "noFrame": true,
-    "extra": [
-      "Issues"
-    ],
-    "titles": [
+    "columns": 7,
+    "birthday": "06-24",
+    "order": [
       "Commits",
       "Repositories",
-      "PullRequest",
       "Stars",
+      "Issues",
+      "Reviews",
+      "PullRequest",
       "Experience",
       "MultiLanguage",
       "PerfectMonth",
@@ -664,14 +664,18 @@
       "Friday13",
       "Day256",
       "MayTheFourth",
-      "Birthday",
       "ProfileCrafter",
       "OldGuard",
       "Sharpshooter"
     ],
-    "columns": 7,
-    "birthday": "06-24",
-    "sort": "rank"
+    "hideTitles": [
+      "PerfectWeek",
+      "Followers"
+    ],
+    "sort": "rank",
+    "highlight": [
+      "Elite"
+    ]
   },
   "marquee": {
     "rows": 4
