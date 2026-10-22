@@ -628,6 +628,7 @@
       "stats",
       "streak"
     ],
+    "orgs",
     "trophies",
     "techStack"
   ],
@@ -683,5 +684,8 @@
   "colors": {
     "frameColor": "c71529",
     "snakeColor": "efd7da"
+  },
+  "orgs": {
+    "sort": "popularity"
   }
 }
