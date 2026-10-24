@@ -609,9 +609,10 @@
     "sizeWeight": 0.1
   },
   "heatmap": {
-    "mode": "snake",
+    "mode": "pacman",
     "cell": "triangle",
-    "snakeStyle": "glow"
+    "snakeStyle": "glow",
+    "pacmanGames": 2
   },
   "includePrivate": true,
   "card": {
