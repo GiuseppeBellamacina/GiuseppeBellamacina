@@ -3,8 +3,7 @@
   "title": "AI/ML Engineer",
   "timezone": "Europe/Rome",
   "themes": {
-    "dark": "shadow-monarch",
-    "light": "shadow-monarch"
+    "dark": "shadow-monarch"
   },
   "about": [
     "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
