@@ -3,7 +3,7 @@
   "title": "AI/ML Engineer",
   "timezone": "Europe/Rome",
   "themes": {
-    "dark": "blood-moon",
+    "dark": "shadow-monarch",
     "light": "glacier"
   },
   "about": [
@@ -616,7 +616,18 @@
   },
   "includePrivate": true,
   "card": {
-    "radius": 45
+    "radius": 45,
+    "panels": "notched",
+    "background": {
+      "pattern": "hex"
+    },
+    "decor": [
+      {
+        "motif": "lightning",
+        "x": 90,
+        "y": 9
+      }
+    ]
   },
   "layout": [
     "header",
@@ -683,8 +694,9 @@
     "rows": 4
   },
   "colors": {
-    "frameColor": "c71529",
-    "snakeColor": "efd7da"
+    "snakeColor": "efd7da",
+    "frameColor": "6a43db",
+    "panel_color": "0d0a15"
   },
   "orgs": {
     "sort": "popularity",
