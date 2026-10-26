@@ -693,11 +693,6 @@
   "marquee": {
     "rows": 4
   },
-  "colors": {
-    "snakeColor": "efd7da",
-    "frameColor": "6a43db",
-    "panel_color": "0d0a15"
-  },
   "orgs": {
     "sort": "popularity",
     "hide": [
