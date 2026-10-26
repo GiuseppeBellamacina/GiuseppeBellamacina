@@ -4,7 +4,7 @@
   "timezone": "Europe/Rome",
   "themes": {
     "dark": "shadow-monarch",
-    "light": "glacier"
+    "light": "shadow-monarch"
   },
   "about": [
     "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
@@ -610,8 +610,6 @@
   },
   "heatmap": {
     "mode": "pacman",
-    "cell": "triangle",
-    "snakeStyle": "glow",
     "pacmanGames": 2
   },
   "includePrivate": true,
