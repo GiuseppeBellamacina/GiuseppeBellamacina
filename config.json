@@ -6,7 +6,7 @@
     "dark": "shadow-monarch"
   },
   "about": [
-    "Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
+    "👋 Hi there! I'm Giuseppe an AI Engineer focused on building LLM-based systems for retrieval, structured reasoning, and production deployment.",
     "I currently work on AI systems used in operational environments, including projects connected to public healthcare organizations and the Italian Air Force Academy."
   ],
   "workingOn": [
@@ -590,20 +590,15 @@
     }
   ],
   "languages": {
-    "countWeight": 0.4,
+    "countWeight": 1,
     "hide": [
       "makefile",
       "PLpgSQL",
       "Processing",
-      "shell",
       "batchfile",
       "Dockerfile",
       "TOML",
-      "Go template",
-      "Jupyter Notebook",
-      "PowerShell",
-      "Tex",
-      "AppleScript"
+      "Go template"
     ],
     "count": 20,
     "sizeWeight": 0.1
