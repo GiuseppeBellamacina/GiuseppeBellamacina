@@ -650,7 +650,6 @@
   "trophies": {
     "noFrame": true,
     "columns": 7,
-    "birthday": "06-24",
     "order": [
       "Commits",
       "Repositories",
@@ -658,7 +657,7 @@
       "Issues",
       "Reviews",
       "PullRequest",
-      "Experience",
+      "OverNineThousand",
       "MultiLanguage",
       "PerfectMonth",
       "Marathon",
@@ -676,11 +675,13 @@
     ],
     "hideTitles": [
       "PerfectWeek",
-      "Followers"
+      "Followers",
+      "Experience",
+      "Elite"
     ],
     "sort": "rank",
     "highlight": [
-      "Elite"
+      "OverNineThousand"
     ]
   },
   "marquee": {
@@ -689,7 +690,8 @@
   "orgs": {
     "sort": "popularity",
     "hide": [
-      "UNICT-Quality-Development"
+      "UNICT-Quality-Development",
+      "NVIDIA-NeMo"
     ]
   }
 }
